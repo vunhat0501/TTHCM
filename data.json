@@ -1,2212 +1,1952 @@
 [
     {
-        "question": "Câu 1: Tư tưởng Hồ Chí Minh có vị trí như thế nào trong hệ thống tư tưởng Đảng Cộng sản Việt Nam?",
+        "question": "Câu 1: Điện toán đám mây (cloud computing) là gì?",
         "options": [
-            "Là một bộ phận trong hệ thống tư tưởng của Đảng",
-            "Là bộ phận quan trọng trong hệ thống tư tưởng của Đảng",
-            "Là bộ phận rất quan trọng trong hệ thống tư tưởng của Đảng",
-            "Là bộ phận nền tảng, kim chỉ nam cho hành động của Đảng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 2: Theo định nghĩa của Đại hội XI, tư tưởng Hồ Chí Minh là:",
-        "options": [
-            "Hệ thống các quan điểm về cách mạng thế giới.",
-            "Hệ thống quan điểm toàn diện và sâu sắc về cách mạng Việt Nam.",
-            "Hệ thống các quan điểm về xây dựng Đảng.",
-            "Hệ thống quan điểm về phát triển kinh tế."
+            "Công nghệ lưu dữ liệu vào USB",
+            "Mô hình cung cấp tài nguyên CNTT qua Internet",
+            "Một loại phần mềm kế toán",
+            "Công nghệ ép xung CPU"
         ],
         "answer": 1
     },
     {
-        "question": "Câu 3: Yếu tố nào là cơ sở thế giới quan và phương pháp luận của tư tưởng Hồ Chí Minh?",
+        "question": "Câu 2: Đâu là đặc điểm chính của cloud computing?",
         "options": [
-            "Tư tưởng Hồ Chí Minh.",
-            "Chủ nghĩa Mác-Lênin.",
-            "Chủ nghĩa yêu nước.",
-            "Tinh hoa văn hóa nhân loại."
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 4: Theo Hồ Chí Minh: “Muốn cứu nước và […...] không con đường nào khác con đường […... ]”.",
-        "options": [
-            "Giải phóng dân tộc; cách mạng vô sản;",
-            "Giành độc lập; cách mạng vô sản;",
-            "Giải phóng dân tộc; cách mạng tư sản;",
-            "Giành độc lập, tự do; cách mạng văn hóa;"
+            "Truy cập tài nguyên theo yêu cầu",
+            "Chỉ chạy offline",
+            "Không cần Internet",
+            "Chỉ dùng cho game"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 5: Mục đích của tư tưởng Hồ Chí Minh là gì?",
+        "question": "Câu 3: Mô hình IaaS cung cấp gì?",
         "options": [
-            "Giải phóng dân tộc",
-            "Giải phóng các dân tộc thuộc địa",
-            "Giải phóng dân tộc, giải phóng giai cấp và giải phóng con người",
-            "Giải phóng giai cấp và giải phóng con người"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 6. Năm 1941, Nguyễn Ái Quốc viết một tác phẩm có câu mở đầu: \"Dân ta phải biết sử ta. Cho tường gốc tích nước nhà Việt Nam\". Đó là tác phẩm:",
-        "options": [
-            "\"Đường kách mệnh\"",
-            "\"Lịch sử nước ta\"",
-            "\"Bài ca du kích\"",
-            "Di chúc"
+            "Email doanh nghiệp",
+            "Máy ảo và hạ tầng",
+            "Công cụ chỉnh sửa ảnh",
+            "Hệ điều hành Android"
         ],
         "answer": 1
     },
     {
-        "question": "Câu 7. Nội dung nào sau đây thể hiện bản chất khoa học và cách mạng của tư tưởng Hồ Chí Minh?",
+        "question": "Câu 4: Đâu là ví dụ của SaaS?",
         "options": [
-            "Kế thừa các giá trị văn hóa phương Đông.",
-            "Vận dụng sáng tạo chủ nghĩa Mác-Lênin vào điều kiện cụ thể ở Việt Nam.",
-            "Phát triển lý luận đấu tranh giai cấp.",
-            "Xây dựng quân đội nhân dân"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 8. Giá trị nào sau đây là cơ sở quan trọng nhất tới sự thay đổi về chất trong tư tưởng Hồ Chí Minh?",
-        "options": [
-            "Chủ nghĩa Tam Dân.",
-            "Chủ nghĩa Mác-Lênin.",
-            "Các tôn giáo.",
-            "Các học thuyết chính trị phương Tây."
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 9. Theo văn kiện của Đảng, yếu tố nào sau đây tạo nên nền tảng tư tưởng của Đảng và cách mạng Việt Nam?",
-        "options": [
-            "Tư tưởng Hồ Chí Minh.",
-            "Chủ nghĩa Mác-Lênin.",
-            "Tư tưởng Hồ Chí Minh và Chủ nghĩa Mác-Lênin.",
-            "Các giá trị văn hóa truyền thống."
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 10. Hồ Chí Minh viết: “Tất cả các dân tộc trên thế giới đều sinh ra bình đẳng, dân tộc nào cũng có quyền bình đẳng, dân tộc nào cũng có quyền sống, quyền sung sướng và quyền tự do” ở tác phẩm nào?",
-        "options": [
-            "Đường cách mạng",
-            "Tuyên ngôn độc lập",
-            "Bản án chế độ thực dân Pháp",
-            "Tuyên ngôn của Đảng cộng sản"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 11. Trong các truyền thống văn hoá dân tộc hình thành nên tư tưởng Hồ Chí Minh, yếu tố nào giữ vị trí hàng đầu?",
-        "options": [
-            "Truyền thống đoàn kết",
-            "Chủ nghĩa Mác - Lênin",
-            "Chủ nghĩa yêu nước",
-            "Truyền thống lao động cần cù, sáng tạo."
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 12. Hồ Chí Minh đã dùng hình tượng nào dưới đây để chỉ Chủ nghĩa tư bản?",
-        "options": [
-            "Con bạch tuộc",
-            "Con chim đại bàng",
-            "Con đỉa hai vòi",
-            "Cả 3 đáp án trên đều sai"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 13. Nội dung nào sau đây thuộc cơ sở thực tiễn hình thành nên tư tưởng Hồ Chí Minh?",
-        "options": [
-            "Thực tiễn xã hội Việt Nam cuối thế kỷ XIX-đầu thế kỷ XX",
-            "Thực tiễn thế giới cuối thế kỷ XX-đầu thế kỷ XXI",
-            "Giá trị truyền thống tốt đẹp của dân tộc Việt Nam",
-            "Chủ nghĩa Mác Lênin"
+            "Microsoft 365",
+            "AWS EC2",
+            "Docker Engine",
+            "Kubernetes"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 14. Ý nghĩa học tập môn Tư tưởng Hồ Chí Minh là gì?",
+        "question": "Câu 5: Virtualization giúp:",
         "options": [
-            "Góp phần nâng cao năng lực tư duy lý luận",
-            "Giáo dục và thực hành đạo đức cách mạng, củng cố niềm tin khoa học gắn liền với trau dồi tình cảm cách mạng, bồi dưỡng lòng yêu nước",
-            "Xây dựng, rèn luyện phương pháp và phong cách công tác",
-            "Cả 3 đáp án"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 15. Trong khái niệm Tư tưởng Hồ Chí Minh thể hiện những nội dung nào sau đây?",
-        "options": [
-            "Bản chất cách mạng, khoa học của tư tưởng Hồ Chí Minh",
-            "Nguồn gốc, cơ sở hình thành tư tưởng Hồ Chí Minh",
-            "Ý nghĩa và giá trị của tư tưởng Hồ Chí Minh",
-            "Cả 3 đáp án"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 16. Văn kiện nào sau đây thể hiện những nội dung cơ bản của tư tưởng Hồ Chí Minh về cách mạng Việt Nam ngay từ khi Đảng ra đời?",
-        "options": [
-            "Tuyên ngôn Độc lập.",
-            "Cương lĩnh chính trị đầu tiên của Đảng.",
-            "Luận cương chính trị.",
-            "Điều lệ Đảng."
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 17. Nội dung nào sau đây không được thể hiện trong khái niệm Tư tưởng Hồ Chí Minh?",
-        "options": [
-            "Thời gian hình thành tư tưởng Hồ Chí Minh",
-            "Bản chất cách mạng, khoa học của tư tưởng Hồ Chí Minh",
-            "Nguồn gốc, cơ sở hình thành tư tưởng Hồ Chí Minh",
-            "Ý nghĩa và giá trị của tư tưởng Hồ Chí Minh"
+            "Chạy nhiều hệ điều hành trên cùng phần cứng",
+            "Tăng độ phân giải màn hình",
+            "Giảm tốc độ CPU",
+            "Xóa dữ liệu tự động"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 18. Đâu không phải là ý nghĩa học tập môn Tư tưởng Hồ Chí Minh?",
+        "question": "Câu 6: Hypervisor là:",
         "options": [
-            "Góp phần học tập tốt các môn Lý luận chính trị",
-            "Góp phần nâng cao năng lực tư duy lý luận",
-            "Giáo dục và thực hành đạo đức cách mạng, củng cố niềm tin khoa học gắn liền với trau dồi tình cảm cách mạng, bồi dưỡng lòng yêu nước",
-            "Xây dựng, rèn luyện phương pháp và phong cách công tác"
+            "Thiết bị mạng",
+            "Phần mềm quản lý máy ảo",
+            "Bộ nguồn máy tính",
+            "Trình duyệt web"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 7: Type 1 Hypervisor chạy:",
+        "options": [
+            "Trên hệ điều hành host",
+            "Trực tiếp trên phần cứng",
+            "Trên Docker",
+            "Trong trình duyệt"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 8: Đâu là ví dụ của Type 2 Hypervisor?",
+        "options": [
+            "VMware ESXi",
+            "Xen",
+            "VirtualBox",
+            "AWS Nitro"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 9: Container chia sẻ thành phần nào với host?",
+        "options": [
+            "RAM vật lý",
+            "Kernel hệ điều hành",
+            "BIOS",
+            "GPU riêng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 10: Docker dùng để:",
+        "options": [
+            "Thiết kế mạng LAN",
+            "Chỉnh sửa video",
+            "Quản lý container",
+            "Ép xung CPU"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 11: Kubernetes chủ yếu dùng để:",
+        "options": [
+            "Orchestration container",
+            "Chạy máy ảo VM",
+            "Quản lý mạng và tài nguyên trong mạng nội bộ",
+            "Quản lý tên miền, DNS"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 19. Đại hội nào của Đảng đã nêu rõ: “Đường lối chính trị, nền nếp làm việc và đạo đức cách mạng của Đảng ta hiện nay là đường lối, tác phong và đạo đức Hồ Chủ tịch\"?",
-        "options": ["Đại hội I.", "Đại hội II.", "Đại hội III.", "Đại hội IV."],
-        "answer": 1
-    },
-    {
-        "question": "Câu 20. Tổ chức quốc tế nào đã ra nghị quyết kỷ niệm 100 năm ngày sinh của Chủ tịch Hồ Chí Minh?",
+        "question": "Câu 12: AWS EC2 là dịch vụ:",
         "options": [
-            "Liên Hợp Quốc (UN).",
-            "Tổ chức Y tế Thế giới (WHO).",
-            "UNESCO.",
-            "Hội Chữ thập đỏ quốc tế."
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 21. Theo Hồ Chí Minh, ở đời và làm người thì phải làm gì?",
-        "options": [
-            "Yêu nước",
-            "Thương dân.",
-            "Thương nhân loại bị áp bức",
-            "Cả 3 đáp án trên đều đúng."
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 22. Phương pháp luận của việc nghiên cứu Tư tưởng Hồ Chí Minh là gì?",
-        "options": [
-            "Bảo đảm sự thống nhất nguyên tắc tính Đảng và tính khoa học",
-            "Thống nhất lý luận và thực tiễn",
-            "Quan điểm lịch sử - cụ thể",
-            "Cả 3 đáp án"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 23. Theo tài liệu, môn học Tư tưởng Hồ Chí Minh thuộc chuyên ngành nào?",
-        "options": [
-            "Lịch sử Đảng.",
-            "Khoa học chính trị.",
-            "Xây dựng Đảng.",
-            "Văn hóa học."
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 24. Nhờ tiếp thu yếu tố nào mà Nguyễn Ái Quốc đã từ một nhà yêu nước trở thành một người cộng sản?",
-        "options": [
-            "Chủ nghĩa yêu nước",
-            "Chủ nghĩa Mác – Lênin",
-            "Chủ nghĩa tam dân",
-            "Chủ nghĩa hiện sinh"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 25. Cuộc vận động “Học tập và làm theo tấm gương đạo đức Hồ Chí Minh” được Đảng ta phát động cho đối tượng nào?",
-        "options": [
-            "Toàn thể cán bộ công chức",
-            "Cho công nhân, nông dân và trí thức",
-            "Trong toàn Đảng và hệ thống chính trị",
-            "Toàn thể đảng viên"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 26. Chọn cùm từ thích hợp điền vào chỗ trống [……] theo tư tưởng Hồ Chí Minh: “Muốn người ta giúp cho thì trước hết mình phải [……]”",
-        "options": [
-            "Giúp người ta trước",
-            "Tự giúp lấy mình đã",
-            "Tự cố gắng đứng dậy",
-            "Kêu gọi sự giúp đỡ"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 27. Tư tưởng Hồ Chí Minh được hình thành và phát triển qua mấy giai đoạn?",
-        "options": ["3 giai đoạn", "4 giai đoạn", "5 giai đoạn", "6 giai đoạn"],
-        "answer": 2
-    },
-    {
-        "question": "Câu 28. Khẳng định của Đảng Cộng sản Việt Nam: “Đường lối chính trị, nề nếp làm việc và đạo đức của Đảng ta hiện nay là đường lối, tác phong và đạo đức cách mạng của Hồ Chủ tịch…Toàn Đảng hãy ra sức học tập đường lối chinh trị, tác phong, đạo đức cách mạng của Hồ Chủ tịch” xuất hiện vào năm nào?",
-        "options": ["Năm 1951", "Năm 1938", "Năm 1941", "Năm 1930"],
-        "answer": 0
-    },
-    {
-        "question": "Câu 29. Đâu là con đường phát triển của dân tộc Việt Nam theo tư tưởng Hồ Chí Minh?",
-        "options": [
-            "Độc lập dân tộc.",
-            "Chủ nghĩa xã hội.",
-            "Độc lập dân tộc gắn liền với chủ nghĩa xã hội.",
-            "Chủ nghĩa cộng sản"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 30. Lực lượng cách mạng theo tư tưởng Hồ Chí Minh là?",
-        "options": [
-            "Công nhân.",
-            "Nông dân.",
-            "Toàn thể nhân dân Việt Nam yêu nước.",
-            "Trí thức."
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 31. Khi nghiên cứu về Cách mạng tư sản Mỹ (1776) và cách mạng tư sản Pháp (1789), Hồ Chí Minh xác định đó là những cuộc cách mạng như thế nào?",
-        "options": [
-            "Chưa trọn vẹn",
-            "Không thành công",
-            "Thắng lợi",
-            "Không đến nơi (không triệt để)"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 32. Phong trào Đông Du (1906 -1908) do ai lãnh đạo?",
-        "options": [
-            "Hồ Chí Minh",
-            "Phan Bội Châu",
-            "Nguyễn Thái Học",
-            "Phan Chu Trinh"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 33. Đối tượng nghiên cứu của môn tư tưởng Hồ Chí Minh?",
-        "options": [
-            "Quá trình sản sinh tư tưởng Hồ Chí Minh",
-            "Quá trình hiện thực hóa tư tưởng Hồ Chí Minh",
-            "Quá trình sản sinh và hiện thực hóa tư tưởng Hồ Chí Minh",
-            "Quá trình Đảng Cộng sản vận dụng tư tưởng Hồ Chí Minh"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 34. Năm nào Ban Chấp hành Trung ương Đảng tôn vinh Hồ Chí Minh là “Anh hùng dân tộc vĩ đại\"?",
-        "options": ["1965", "1969", "1975", "1976"],
-        "answer": 1
-    },
-    {
-        "question": "Câu 35. Đại hội VI của Đảng (12-1986) đã đề ra đường lối đổi mới toàn diện ở nước ta, trong đó nhấn mạnh điều gì?",
-        "options": [
-            "Phát triển kinh tế thị trường định hướng xã hội chủ nghĩa.",
-            "Mở rộng quan hệ đối ngoại.",
-            "Đảng ta phải nắm vững bản chất cách mạng và khoa học của chủ nghĩa Mác - Lênin, kế thừa di sản quý báu về tư tưởng và lý luận cách mạng của Chủ tịch Hồ Chí Minh.",
-            "Xây dựng Nhà nước pháp quyền xã hội chủ nghĩa."
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 36. Đại hội đại biểu toàn quốc lần thứ mấy của Đảng đã nhấn mạnh về việc coi trọng học tập tư tưởng, đạo đức, tác phong của Chủ tịch Hồ Chí Minh trong toàn Đảng?",
-        "options": ["Đại hội IV", "Đại hội V", "Đại hội VI", "Đại hội VII"],
-        "answer": 1
-    },
-    {
-        "question": "Câu 37. Tư tưởng Hồ Chí Minh có vị trí như thế nào trong hệ thống tư tưởng Đảng Cộng sản Việt Nam?",
-        "options": [
-            "Là một bộ phận trong hệ thống tư tưởng của Đảng",
-            "Là bộ phận quan trọng trong hệ thống tư tưởng của Đảng",
-            "Là bộ phận rất quan trọng trong hệ thống tư tưởng của Đảng",
-            "Là bộ phận nền tảng, kim chỉ nam cho hành động của Đảng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 38. Vấn đề nào mà giáo trình tư tưởng Hồ Chí Minh chưa nêu khi nói về ý nghĩa học tập môn học này đối với sinh viên?",
-        "options": [
-            "Nâng cao năng lực tư duy lý luận và phương pháp công tác",
-            "Bồi dưỡng phẩm chất đạo đức cách mạng và rèn luyện bãn lĩnh chính trị",
-            "Nâng cao lòng tự hào dân tộc, tự hào về Bác Hồ kính yêu",
-            "Bồi dưỡng tình yêu thiên nhiên, ý thức bảo vệ môi trường."
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 39. Bản chất của tư tưởng Hồ Chí Minh được thể hiện qua yếu tố nào?",
-        "options": [
-            "Tính dân tộc và tính đại chúng",
-            "Tính khoa học và tính cách mạng",
-            "Tính nhân văn và tính xã hội",
-            "Tính hiện đại và tính truyền thống"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 40. \"Dù phải đốt cháy cả dãy Trừờng Sơn cũng phải giành cho được độc lập\" câu nói đó của Hồ Chí Minh vào thời gian nào?",
-        "options": [
-            "Tháng 5-1941",
-            "Tháng 9-1945",
-            "Tháng 8-1945",
-            "Tháng 12-1946"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 41. Ban Chấp hành Trung ương Đảng tôn vinh Hồ Chí Minh là gì?",
-        "options": [
-            "Người cha già của dân tộc.",
-            "Người thầy vĩ đại của cách mạng Việt Nam.",
-            "Anh hùng dân tộc vĩ đại.",
-            "Nhà văn hóa kiệt xuất."
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 42. Đại hội đại biểu toàn quốc lần thứ IV của Đảng đánh giá thắng lợi của sự nghiệp chống Mỹ, cứu nước như thế nào?",
-        "options": [
-            "Là thắng lợi của đường lối quân sự tài tình.",
-            "Luôn gắn liền với tên tuổi của Chủ tịch Hồ Chí Minh.",
-            "Là kết quả của sự giúp đỡ quốc tế.",
-            "Nhờ vào tinh thần đoàn kết của toàn dân."
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 43. Văn kiện nào của Đảng thể hiện những nội dung rất cơ bản của tư tưởng Hồ Chí Minh về cách mạng Việt Nam ngay từ khi Đảng ra đời?",
-        "options": [
-            "Cương lĩnh chính trị đầu tiên của Đảng.",
-            "Luận cương chính trị.",
-            "Điều lệ Đảng.",
-            "Tuyên ngôn độc lập."
+            "Compute",
+            "DNS",
+            "Email",
+            "Object Storage"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 44. Đại hội VII của Đảng khẳng định điều gì về tư tưởng Hồ Chí Minh?",
+        "question": "Câu 13: Amazon S3 thuộc loại dịch vụ nào?",
         "options": [
-            "Là một bộ phận của chủ nghĩa Mác - Lênin.",
-            "Là kết quả của sự vận dụng sáng tạo chủ nghĩa Mác - Lênin.",
-            "Là nền tảng tư tưởng của Đảng.",
-            "Tất cả các câu trả lời trên."
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 45. Nguyên tắc phương pháp luận nào yêu cầu phải đứng trên lập trường giai cấp công nhân khi nghiên cứu tư tưởng Hồ Chí Minh?",
-        "options": [
-            "Thống nhất lý luận và thực tiễn.",
-            "Thống nhất tính đảng và tính khoa học.",
-            "Quan điểm lịch sử - cụ thể.",
-            "Quan điểm toàn diện và hệ thống."
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 46. Hồ Chí Minh coi trọng yếu tố nào trong mối quan hệ với lý luận?",
-        "options": [
-            "Thực tiễn.",
-            "Kinh nghiệm.",
-            "Sách vở.",
-            "Trí tưởng tượng"
+            "Object Storage",
+            "Virtual Machine",
+            "VPN",
+            "File Storage"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 47. UNESCO đã ra nghị quyết kỷ niệm 100 năm ngày sinh của Chủ tịch Hồ Chí Minh vào năm nào?",
-        "options": ["1985", "1987", "1990", "1991"],
-        "answer": 1
-    },
-    {
-        "question": "Câu 48. Nghiên cứu, học tập tư tưởng Hồ Chí Minh đòi hỏi điều gì?",
+        "question": "Câu 14: Azure là nền tảng cloud của:",
         "options": [
-            "Chỉ biết kế thừa.",
-            "Vận dụng một cách máy móc.",
-            "Phát triển sáng tạo trong điều kiện lịch sử mới.",
-            "Giữ nguyên không thay đổi."
+            "Google",
+            "Amazon",
+            "Microsoft",
+            "IBM"
         ],
         "answer": 2
     },
     {
-        "question": "Câu 49. Cơ sở giá trị nhất trong quá trình hình thành và phát triển tư tưởng Hồ Chí Minh là gì?",
+        "question": "Câu 15: GCP là viết tắt của:",
         "options": [
-            "Chủ nghĩa yêu nước.",
-            "Chủ nghĩa Mác - Lênin.",
-            "Văn hóa phương Đông.",
-            "Tinh hoa văn hóa nhân loại."
+            "Google Cloud Platform",
+            "Google Control Pannel",
+            "General Cloud Package",
+            "Google Control Platform"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 50. Tác phẩm “Bản án chế độ thực dân Pháp” của Nguyễn Ái Quốc được xuất bản lần đầu tiên vào năm nào?",
-        "options": ["Năm 1921", "Năm 1923", "Năm 1924", "Năm 1925"],
-        "answer": 3
-    },
-    {
-        "question": "Câu 51. Nguyễn Ái Quốc lựa chọn con đường giải phóng dân tộc theo khuynh hướng chính trị vô sản vào thời gian nào?",
-        "options": ["1918", "1917", "1919", "1920"],
-        "answer": 3
-    },
-    {
-        "question": "Câu 52. Nguyễn Tất Thành lấy tên là Nguyễn Ái Quốc vào thời gian nào?",
+        "question": "Câu 16: Public Cloud phù hợp với:",
         "options": [
-            "Khi Bác lên tàu từ bến Nhà Rồng năm 1911;",
-            "Khi Bác tham gia sáng lập Đảng Cộng sản Pháp tại Đại hội Tua tháng 12/1920;",
-            "Tại Hội nghị Vécxay (Pháp) ngày 18/6/1919;",
-            "Khi Bác sang Liên Xô làm việc ở Ban Phương Đông của Quốc tế Cộng sản tháng 6/1923"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 53. Nguyễn Ái Quốc từ Liên Xô về Quảng Châu (Trung Quốc) vào thời gian nào?",
-        "options": ["12/1924", "11/1924", "12/1925", "10/ 1924"],
-        "answer": 1
-    },
-    {
-        "question": "Câu 54. Vở kịch Con Rồng tre được Nguyễn Ái Quốc viết nhân dịp vua Khải Định sang Pháp, đó là năm nào?",
-        "options": [
-            "Tháng 5/1922",
-            "Tháng 5/1925",
-            "Tháng 5/1923",
-            "Tháng 5/1927"
+            "Startup cần mở rộng nhanh",
+            "Doanh nghiệp lớn cần tận dụng hạ tầng sẵn có",
+            "Doanh nghiệp cung cấp dịch vụ viễn thông",
+            "Trường học"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 55. “Đưa hổ cửa trước, rước beo cửa sau” là câu Nguyễn Ái Quốc nói về chủ trương cứu nước của ai?",
+        "question": "Câu 17: Private Cloud phù hợp nhất với:",
         "options": [
-            "Hoàng Hoa Thám",
-            "Nguyễn Thái Học",
-            "Phan Bội Châu",
-            "Phan Chu Trinh"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 56. “Ỷ Pháp cầu tiến bộ chẳng khác nào xin giặc rủ lòng thương” là câu Nguyễn Ái Quốc nhận xét về chủ trương cứu nước của ai?",
-        "options": [
-            "Nguyễn Thái Học",
-            "Hoàng Hoa Thám",
-            "Phan Bội Châu",
-            "Phan Châu Trinh"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 57. Hồ Chí Minh viết tác phẩm “Đường Kách mệnh” vào năm nào?",
-        "options": ["Năm 1926", "Năm 1927", "Năm 1928", "Năm 1929"],
-        "answer": 1
-    },
-    {
-        "question": "Câu 58. \"Luận cương của V. I. Lênin làm cho tôi rất cảm động, phấn khởi, sáng tỏ, tin tưởng biết bao...\" Nguyễn Ái Quốc nói câu ấy khi đang ở đâu?",
-        "options": [
-            "Luân Đôn, Anh",
-            "Paris, Pháp",
-            "Quảng Châu, Trung Quốc",
-            "Mát-xcơ-va, Liên Xô"
+            "Quán net",
+            "Doanh nghiệp yêu cầu bảo mật cao",
+            "Trường học",
+            "Doanh nghiệp cung cấp dịch vụ viễn thông"
         ],
         "answer": 1
     },
     {
-        "question": "Câu 59. Câu nói trên được trích từ tác phẩm nào?",
+        "question": "Câu 18: Hybrid Cloud là:",
         "options": [
-            "Đời hoạt động của Hồ Chủ tịch",
-            "Con đường dẫn tôi đến với chủ nghĩa Lênin",
-            "Lênin vĩ đại",
-            "Cách mạng Tháng Mười và con đường giải phóng dân tộc"
+            "Chỉ dùng cloud công cộng",
+            "Kết hợp public và private cloud",
+            "Chỉ dùng server vật lý",
+            "Không dùng virtualization"
         ],
         "answer": 1
     },
     {
-        "question": "Câu 60. Lý do chính của việc Nguyễn Ái Quốc đến Pháp?",
+        "question": "Câu 19: Scalability là khả năng:",
         "options": [
-            "Để vận động nhân dân Pháp ủng hộ cách mạng Việt Nam",
-            "Vì nguồn gốc mọi đau khổ của nhân dân Việt Nam là ở tại “chính quốc”",
-            "Để tìm hiểu văn minh Pháp",
-            "Để học nghề"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 61. Bác Hồ về nước ngày, tháng, năm nào?",
-        "options": ["28/1/1941", "28/1/1942", "12/8/1942", "19/12/1941"],
-        "answer": 0
-    },
-    {
-        "question": "Câu 62. Chọn phương án trả lới đúng nhất cho tư tưởng Hồ Chí Minh?",
-        "options": [
-            "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta.",
-            "Tư tưởng Hồ Chí Minh là kết quả của sự vận dụng và phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta.",
-            "Tư tưởng Hồ Chí Minh là kết quả của sự phát triển sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta.",
-            "Tư tưởng Hồ Chí Minh là kết quả của sự sáng tạo chủ nghĩa Mác - Lênin vào điều kiện thực tế của nước ta."
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 63. Trong thời gian ở nước ngoài, Nguyễn Tất Thành đã làm những công việc gì?",
-        "options": [
-            "Phụ bếp, cào tuyết",
-            "Đốt lò, bán báo",
-            "Thợ ảnh, làm bánh",
-            "Tất cả các công việc trên."
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 64. Hồ Chi Minh viết tác phẩm “Đường Kách mệnh” vào năm nào?",
-        "options": ["Năm 1926", "Năm 1927", "Năm 1928", "Năm 1929"],
-        "answer": 1
-    },
-    {
-        "question": "Câu 65. Thuật ngữ “tư tưởng Hồ Chí Minh” được dùng theo nghĩa nào?",
-        "options": [
-            "Là tư tưởng của một cá nhân",
-            "Là tư tưởng của một giai cấp, một dân tộc",
-            "Là tư tưởng của một lãnh tụ",
-            "Là tất cả những vấn đề trên"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 66. Khái niệm tư tưởng Hồ Chí Minh được Đảng ta chính thức sử dụng vào thời gian nào?",
-        "options": ["Năm 1930", "Năm 1945", "Năm 1969", "Năm 1991"],
-        "answer": 3
-    },
-    {
-        "question": "Câu 67. Tìm đáp án sai. Khái niệm tư tưởng Hồ Chí Minh mà Đại hội IX (2001) nêu lên bao gồm:",
-        "options": [
-            "Bản chất cách mạng và khoa học của tư tưởng Hồ Chí Minh",
-            "Nguồn gốc tư tưởng, lý luận của tư tưởng Hồ Chí Minh",
-            "Nội dung tư tưởng Hồ Chí Minh",
-            "Kết cấu tư tưởng Hồ Chí Minh"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 68. Báo Le Paria (Người Cùng Khổ) do Nguyễn Ái Quốc đồng sáng lập, ra số đầu tiên khi nào?",
-        "options": ["30/12/1920", "1/4/1921", "1/4/1922", "1/4/1923"],
-        "answer": 2
-    },
-    {
-        "question": "Câu 69. Hồ Chí Minh sáng lập “Hội Việt Nam cách mạng thanh niên” vào thời gian nào?",
-        "options": [
-            "Tháng 5/1925",
-            "Tháng 5/1927",
-            "Tháng 6/1925",
-            "Tháng 5/1926"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 70. Nguyễn Tất Thành lên con tàu Amiran Latusơ Tơrơvin để ra đi tìm đường cứu nước tại đâu? Vào thời gian nào?",
-        "options": [
-            "6/5/1911 tại Bến cảng Nhà Rồng",
-            "2/6/1911 tại Sài Gòn",
-            "5/6/1911 tại Bến cảng Nhà Rồng",
-            "4/6/1911 tại Bến Nhà Rồng"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 71. Theo Hồ Chí Minh, học chủ nghĩa Mác-Lênin là để làm gì?",
-        "options": [
-            "Học thuộc các luận điểm lý luận",
-            "Để chứng tỏ trình độ lý luận",
-            "Để sống với nhau có tình có nghĩa",
-            "Cả ba đáp án trên đều sai"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 72. Điều mong muốn cuối cùng của Hồ Chí Minh ghi trong Di chúc là gì?",
-        "options": [
-            "Xây dựng một nước Việt Nam phồn vinh và cường thịnh",
-            "Xây dựng một nước Việt Nam hòa bình, thống nhất, độc lập, dân chủ, giàu mạnh.",
-            "Xây dựng một nước Việt Nam dân chủ, công bằng, văn minh",
-            "Làm cho mọi người được hạnh phúc"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 73. Trong những tiền đề hình thành tư tưởng Hồ Chí Minh, tiền đề nào đánh dấu “bước chuyển về chất” trong tư tưởng của Người?",
-        "options": [
-            "Tinh hoa văn hóa phương Tây",
-            "Tinh hoa văn hóa phương Đông",
-            "Chủ nghĩa Tam Dân của Tôn Trung Sơn",
-            "Chủ nghĩa Mác – Lênin"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 74. Chủ tịch Hồ Chí Minh ra Lời kêu gọi toàn quốc kháng chiến “Thà hy sinh tất cả chứ nhất định không chịu mất nước, không chịu làm nô lệ” vào thời điểm nào?",
-        "options": [
-            "Đêm ngày 18/9/1946",
-            "Ngày 20/12/1946",
-            "Đêm ngày 19/12/1946",
-            "Ngày 25/11/1946"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 75. Người thầy giáo đầu tiên của Nguyễn Tất Thành là ai?",
-        "options": [
-            "Vương Thúc Quí",
-            "Nguyễn Sinh Sắc",
-            "Trần Tấn",
-            "Phan Bội Châu"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 76. Nguyễn Tất Thành vào học trường Pháp - Việt Đông Ba năm nào?",
-        "options": ["9/1905", "9/1906", "9/1907", "9/1908"],
-        "answer": 1
-    },
-    {
-        "question": "Câu 77. Nguyễn Tất Thành nói: “Tôi muốn đi ra ngoài xem nước Pháp và các nước khác làm như thế nào, tôi sẽ trở về giúp đồng bào chúng ta”. Câu nói đó vào thời gian nào?",
-        "options": ["6/1909", "6/1911", "7/1910", "6/1912"],
-        "answer": 1
-    },
-    {
-        "question": "Câu 78. Hồ Chí Minh sánh lập “Hội Việt Nam cách mạng thanh niên” vào thời gian nào?",
-        "options": [
-            "Tháng 5/1925",
-            "Tháng 5 /1927",
-            "Tháng 6/ 1925",
-            "Tháng 5/1926"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 79. Nguyễn Tất Thành học tại trường Quốc học Huế năm học nào?",
-        "options": [
-            "Năm học 1905-1906",
-            "Năm học 1906-1907",
-            "Năm học 1907-1908",
-            "Năm học 1911-1912"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 80. Nguyễn Tất Thành đã tham dự cuộc biểu tình chống thuế của nông dân tỉnh Thừa Thiên vào thời gian nào?",
-        "options": ["5/1905", "5/1908", "5/1906", "5/1911"],
-        "answer": 1
-    },
-    {
-        "question": "Câu 81. Nguyễn Tất Thành dạy học ở trường Dục Thanh thời gian nào?",
-        "options": [
-            "9/1908 đến 9/1909",
-            "9/1910 đến 2/1911",
-            "9/1910 đến 4/1911",
-            "9/1910 đến 5/1911"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 82. Nguyễn Tất Thành ở Mỹ thời gian nào?",
-        "options": ["1911- 1912", "1912-1913", "1912-1914", "1913-1914"],
-        "answer": 1
-    },
-    {
-        "question": "Câu 83. Những tri thức mà Nguyễn Tất Thành có được về nền văn hoá Pháp là do anh đã từng đọc các tác phẩm của ai?",
-        "options": [
-            "Vôn te",
-            "Rút xô",
-            "Mông tex kiơ",
-            "Tất cả các đáp án trên đều đúng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 84. Nguyễn Ái Quốc vào Đảng Xã hội Pháp năm nào?",
-        "options": ["1917", "1918", "1919", "1920"],
-        "answer": 2
-    },
-    {
-        "question": "Câu 85. Báo Le Paria (Người Cùng khổ) do Nguyễn Ái Quốc đồng sáng lập, ra số đầu tiên khi nào?",
-        "options": ["30/12/1920", "1/4/1921", "1/4/1922", "1/4/1923"],
-        "answer": 2
-    },
-    {
-        "question": "Câu 86. Nguyễn Tất Thành ở nước Anh thời gian nào?",
-        "options": ["1913- 1914", "1914-1915", "1914-1916", "1914-1917"],
-        "answer": 3
-    },
-    {
-        "question": "Câu 87. Nguyễn Ái Quốc đọc “ Sơ thảo lần thứ nhất Luận cương về vấn đề dân tộc và vấn đề thuộc địa” của Lênin vào thời gian nào?",
-        "options": [
-            "tháng 7/1919",
-            "tháng 7/1920",
-            "tháng 7/ 1921",
-            "tháng 7/ 1917"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 88. Trong khoảng thời gian nào, tư tưởng Hồ Chí Minh về cách mạng Việt Nam đã hình thành về cơ bản?",
-        "options": [
-            "Thời  kỳ từ năm 1911 - 1920",
-            "Thời  kỳ từ năm 1921 - 1930",
-            "Thời  kỳ từ năm 1930 - 1945",
-            "Thời  kỳ từ năm 1945 -1969"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 89. “Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra Hồ Chủ tịch...”. Nhận định trên ở trong văn kiện nào?",
-        "options": [
-            "Lời kêu gọi của Ban chấp hành Trung ương Đảng Lao động Việt Nam ngày 3 – 9 - 1969",
-            "Điếu văn của Ban chấp hành Trung ương Đảng Lao động Việt Nam 9 – 9 - 1969.",
-            "Văn kiện Đại hội Đại biểu toàn quốc lần thứ IV năm 1976",
-            "Báo Nhân dân ngày 3 – 2 -1969"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 90. Điền cụm từ thích hợp: Người nhận thấy con đường của .....(1).. chẳng khác gì ”đuổi hổ cửu trước, rước beo cửa sau”, con đường của ....(2) cũng chẳng khác nào ”xin giặc rủ lòng thương”. Con đường của ...(3)... tuy có phần thực tế hơn, nhưng vẫn mang nặng cốt cách phong kiến",
-        "options": [
-            "(1)Phan Chu Trinh, (2) Hoàng Hoa Thám, (3) Phan Bội Châu",
-            "(1) Phan Bội Châu,  (2) Phan Chu Trinh,   (3), Hoàng Hoa Thám",
-            "(1) Hoàng Hoa Thám, (2 ) Phan Bội Châu,, (3) Phan Chu Trinh.",
-            "(1) Phan  Bội Châu, (2) Hoàng Hoa Thám, (3) Phan Chu Trinh"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 91. Điền cụm từ: Người tiếp thu những mặt tích cực của …Đó là triết lý hành động, tư tưởng nhập thế, hành đạo, giúp đời... tu thân dưỡng tính",
-        "options": ["Nho giáo", "Thiên Chúa giáo", "Khổng Tử", "Phật giáo"],
-        "answer": 0
-    },
-    {
-        "question": "Câu 92. Năm 1919, Nguyễn Ái Quốc gửi Bản yêu sách của nhân dân An Nam tới hội nghị Vécxây, đòi chính phủ Pháp thừa nhận .......",
-        "options": [
-            "Quyền tự do, dân chủ của nhân dân Việt Nam",
-            "Quyền độc lập dân tộc của dân tộc Việt Nam",
-            "Các quyền tự do, dân chủ và bình đẳng của nhân dân Việt Nam",
-            "Các quyền tự do, dân chủ và độc lập dân tộc của dân tộc Việt Nam"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 93. Hồ Chí Minh xác định mục tiêu của cách mạng Việt Nam là “đánh đổ đế quốc chủ nghĩa Pháp và bọn phong kiến”, “ làm cho nước Việt Nam hoàn toàn độc lập”, mục tiêu đó được trình bày trong tác phẩm?",
-        "options": [
-            "Mười chính sách của Việt minh",
-            "Cương lĩnh chính trị đầu tiên của Đảng",
-            "Bản án chế độ thực dân Pháp",
-            "Đường Kách Mệnh"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 94. Động lực nào sau chi phối mọi suy nghĩ, hành động suốt cuộc đời hoạt động cách mạng của Hồ Chí Minh?",
-        "options": [
-            "Tinh thần nhâp thế giúp đời",
-            "Đạo lý làm người",
-            "Chủ nghĩa yêu nước",
-            "Cả ba đáp án trên"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 95. Câu nào sau đây đúng?",
-        "options": [
-            "Thời kỳ 1911 – 1920 là thời kỳ hình thành cơ bản tư tưởng về cách mạng Việt Nam của Hồ Chí Minh.",
-            "Thời kỳ 1921 - 1930 là thời kỳ hình thành cơ bản tư tưởng về cách mạng Việt Nam của Hồ Chí Minh.",
-            "Thời kỳ 1931-1945 là thời kỳ hình thành cơ bản tư tưởng về cách mạng Việt Nam của Hồ Chí Minh.",
-            "Thời kỳ 1946-1969 là thời kỳ hình thành cơ bản tư tưởng về cách mạng Việt Nam của Hồ Chí Minh."
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 96. Nguyễn Tất Thành lấy tên là Nguyễn Ái Quốc khi nào và ở đâu?",
-        "options": [
-            "Tại Bến cảng Nhà Rồng năm 1911.",
-            "Tại Hội nghị Vécxây ở Pháp 1919.",
-            "Tại Trung Quốc năm 1927, khi xuất bản cuốn Đường Kách mệnh.",
-            "Tại Liên Xô năm 1938, khi học tập và nghiên cứu chủ nghĩa Mác – Lênin."
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 97. Đảng ta khẳng định: ”Đảng lấy chủ nghĩa Mác- Lênin và tư tưởng Hồ Chí Minh là nền tảng tư tưởng, kim chỉ nam cho hành động” từ Đại hội nào?",
-        "options": [
-            "Đại hội VI (1986)",
-            "Đại hội VII (1991)",
-            "Đại hội VIII (1996)",
-            "Đại hội IX (2001)"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 98. Động lực lên đường cứu nước và là “ bộ lọc” để Hồ Chí Minh lựa chọn, tiếp nhận tinh hoa văn hoá nhân loại và con đường cứu nước đúng đắn cho dân tộc Việt Nam là gì?",
-        "options": [
-            "Chủ nghĩa yêu nước của người Việt Nam.",
-            "Tư tưởng vị tha, từ bi, bác ái, cứu khổ, cứu nạn, thương người như thể thương thân của Phật giáo.",
-            "Sự dạy dỗ và dày công rèn luyện, chỉ bảo của cụ phó bảng Nguyễn Sinh Sắc.",
-            "Cả ba đáp án trên"
+            "Mở rộng tài nguyên",
+            "Tăng điện áp",
+            "Tăng kích thước màn hình",
+            "Ép xung RAM"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 99. Nguyễn Ái Quốc gứi bản “Yêu sách của nhân dân Việt Nam” tới Hội nghị Véc xay vào ngày, tháng, năm nào?",
-        "options": ["1917", "1918", "1919", "1920"],
-        "answer": 2
-    },
-    {
-        "question": "Câu 100. Nguyễn Ái Quốc tán thành Quốc tế III, tham gia thành lập Đảng Cộng sản Pháp khi nào?",
-        "options": ["12/1918", "12/1919", "12/1920", "12/1923"],
-        "answer": 2
-    },
-    {
-        "question": "Câu 101. Nguyễn Ái Quốc đã thành lập Hội Việt Nam cách mạng thanh niên ở đâu?",
+        "question": "Câu 20: Container thường nhẹ hơn VM vì:",
         "options": [
-            "Hương Cảng (Trung Quốc)",
-            "Quảng Châu (Trung Quốc)",
-            "Thượng Hải (Trung Quốc)",
-            "Cao Bằng (Việt Nam)"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 102. Bản Yêu sách của nhân dân Việt Nam gồm mấy điểm:",
-        "options": ["6 điểm", "8 điểm", "9 điểm", "12 điểm"],
-        "answer": 1
-    },
-    {
-        "question": "Câu 103. Theo Hồ Chí Minh, ưu điểm lớn nhất của học thuyết Khổng Tử là gì?",
-        "options": [
-            "Tinh thần hiếu học",
-            "Quản lý xã hội bằng đạo đức",
-            "Sự tu dưỡng đạo đức cá nhân",
-            "Tinh thần lễ nghĩa"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 104. Tư tưởng Hồ Chí minh về con đường cách mạng Việt Nam được hình thành về cơ bản vào năm nào?",
-        "options": ["1917", "1920", "1930", "1945"],
-        "answer": 2
-    },
-    {
-        "question": "Câu 105. Trong các nguồn gốc hình thành tư tưởng Hồ Chí Minh, nguồn gốc nào quan trọng nhất, quyết định đối với việc hình thành và phát triển tư tưởng Hồ Chí Minh?",
-        "options": [
-            "Truyền thống văn hoá của dân tộc Việt Nam.",
-            "Tinh hoa văn hoá loài người",
-            "Những phẩm chất chủ quan của Hồ Chí Minh",
-            "Chủ nghĩa Mác – Lênin"
+            "Không có storage",
+            "Không dùng CPU",
+            "Không dùng GPU",
+            "Không cần OS riêng"
         ],
         "answer": 3
     },
     {
-        "question": "Câu 106. Hồ Chí Minh đến với chủ nghĩa Mác – Lênin và trở thành người cộng sản đầu tiên của Việt Nam vào thời gian nào?",
-        "options": ["1917", "1920", "1930", "1945"],
-        "answer": 1
-    },
-    {
-        "question": "Câu 107. Các bài giảng của Nguyễn Ái Quốc tại các lớp huấn luyện cán bộ... xuất bản thành tác phẩm gì?",
+        "question": "Câu 21: Docker Image là:",
         "options": [
-            "Bản án chế độ thực dân Pháp",
-            "Con Rồng tre",
-            "Lênin và Phương Đông",
-            "Đường Cách mệnh"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 108. Hồ Chí Minh đã tiếp thu những yếu tố nào của Phật giáo?",
-        "options": [
-            "Lòng thương người",
-            "Tinh thần từ bi, bác ái",
-            "Tinh thần cứu khổ cứu nạn",
-            "Cả 3 phương án trên đều đúng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 109. Theo Hồ Chí Minh, điểm lớn nhất của chủ nghĩa Mác - Lênin là gì?",
-        "options": [
-            "Bản chất cách mạng.",
-            "Chủ nghĩa nhân đạo chiến đấu.",
-            "Bản chất khoa học.",
-            "Phương pháp làm việc biện chứng."
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 110. Theo Hồ Chí Minh, ưu điểm lớn nhất của tôn giáo GiêSu là gì?",
-        "options": [
-            "Đức hy sinh",
-            "Lòng cao thượng",
-            "Lòng nhân ái cao cả",
-            "Lòng tư bi bác ái"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 111. Theo Hồ Chí Minh, ưu điểm lớn nhất của chủ nghĩa tam dân của Tôn Trung Sơn, đối với nước ta là:",
-        "options": [
-            "Chống phong kiến",
-            "Đem lại độc lập, tự do",
-            "Đấu tranh vì tự do dân chủ",
-            "Phù hợp với điều kiện thực tế nước ta"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 112. Tư tưởng Hồ Chí Minh được hình thành từ những nguồn gốc nào?",
-        "options": [
-            "Truyền thống văn hoá của dân tộc Việt Nam và tinh hoa văn hoá loài người.",
-            "Chủ nghĩa Mác – Lênin",
-            "Những phẩm chất chủ quan của Hồ Chí Minh",
-            "Cả 3 đáp án trên đều đúng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 113. Trong những tiền đề lý luận hình thành tư tưởng Hồ Chí Minh, tiền đề nào quyết định bản chất cách mạng và khoa học của tư tưởng Hồ Chí Minh?",
-        "options": [
-            "Tinh hoa văn hóa dân tộc",
-            "Tinh hoa văn hoá loài người",
-            "Chủ nghĩa tam dân",
-            "Chủ nghĩa Mác – Lênin"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 114. Khẳng định: “Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra Hồ Chủ tịch...”, được đưa ra vào năm nào?",
-        "options": ["Năm 1969", "Năm 1960", "Năm 1965", "Năm 1954"],
-        "answer": 0
-    },
-    {
-        "question": "Câu 115. Khẳng định: “Thắng lợi to lớn của sự nghiệp chống Mỹ cứu nước... mãi mãi gắn liền với tên tuổi của Chủ tịch Hồ Chí Minh...”, được đưa ra vào năm nào?",
-        "options": [
-            "Đại hội IV (1976)",
-            "Đại hội III (1960)",
-            "Đại hội V (1982)",
-            "Đại hội II (1951)"
+            "Mẫu tạo container",
+            "Ảnh chụp màn hình",
+            "File BIOS",
+            "Máy ảo hoàn chỉnh"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 116. Nhận định sau được thông qua tại Đại hội đại biểu toàn quốc lần thứ mấy: “Đảng phải đặc biệt coi trọng việc tổ chức học tập một cách có hệ thống tư tưởng, đạo đức, tác phong của Chủ tịch Hồ Chí Minh trong toàn Đảng”?",
+        "question": "Câu 22: Dockerfile dùng để:",
         "options": [
-            "Đại hội V (1982)",
-            "Đại hội III (1960)",
-            "Đại hội IV (1976)",
-            "Đại hội II (1951)"
+            "Cấu hình ảo hóa",
+            "Tạo database",
+            "Thực thi Docker image",
+            "Build Docker image"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 23: AWS Lambda thuộc mô hình:",
+        "options": [
+            "VM Hosting",
+            "IaaS",
+            "Serverless",
+            "Bare-metal"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 24: IAM trên AWS dùng để:",
+        "options": [
+            "Quản lý mạng",
+            "Quản lý quyền truy cập",
+            "Lưu trữ video",
+            "Quản lý tài sản"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 25: Load Balancer có nhiệm vụ:",
+        "options": [
+            "Chia tải hệ thống",
+            "Ngăn chặn truy cập trái phép",
+            "Tải bản cập nhật mới nhất cho máy chủ",
+            "Giảm tải cho máy chủ"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 117. Nhận định sau được thông qua tại Đại hội đại biểu toàn quốc lần thứ mấy: “Đảng phải nắm vững bản chất cách mạng và khoa học của Chủ nghĩa Mác-Lênin, di sản quý báu về tư tưởng và lý luận cách mạng của Chủ tịch Hồ Chí Minh”?",
+        "question": "Câu 26: CDN giúp:",
         "options": [
-            "Đại hội VI (1986)",
-            "Đại hội V (1982)",
-            "Đại hội IV (1976)",
-            "Đại hội VII (1991)"
+            "Kiểm tra vị trí người dùng với máy chủ gần nhất",
+            "Giảm RAM server",
+            "Tăng tốc phân phối nội dung",
+            "Chạy VM"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 27: RDS trên AWS dùng để:",
+        "options": [
+            "Quản lý cơ sở dữ liệu",
+            "Quản lý DNS",
+            "Chạy container",
+            "Quản lý switch"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 118. Một trong những nội dung cơ bản của Bản Yêu sách gồm 8 điểm mà Nguyễn Ái Quốc gửi đến Hội nghị Véc xay (Pháp) là:",
+        "question": "Câu 28: AKS là dịch vụ Kubernetes của:",
         "options": [
-            "Đòi quyền tựu trị của dân tộc",
-            "Đòi quyền tự do, dân chủ tối thiểu cho nhân dân",
-            "Đòi quyền độc lập của dân tộc",
-            "Đòi quyền giải phóng dân tộc"
+            "AWS",
+            "Microsoft Azure",
+            "Google Cloud",
+            "Oracle"
         ],
         "answer": 1
     },
     {
-        "question": "Câu 119. Tác phẩm nào sau đây của Nguyễn Ái Quốc đã phân tích sâu sắc bản chất, thủ đoạn của chủ nghĩa thực dân Pháp?",
+        "question": "Câu 29: GKE là:",
         "options": [
-            "“Bản án chế độ thực dân Pháp”",
-            "“Đường Kách mệnh”",
-            "“Nhật ký trong tù”",
-            "“Sửa đổi lối làm việc”"
+            "Managed Kubernetes của Google",
+            "Dịch vụ email",
+            "Database NoSQL",
+            "Hypervisor"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 120. Khoảng thời gian nào đánh dấu thời kỳ hình thành tư tưởng cứu nước, giải phóng dân tộc Việt Nam theo con đường cách mạng vô sản trong quá trình hình thành và phát triển tư tưởng Hồ Chí Minh?",
-        "options": ["1911-1920", "1920-1930", "1930-1941", "1941-1969"],
-        "answer": 0
+        "question": "Câu 30: Một lợi ích lớn của cloud computing là:",
+        "options": [
+            "Không cần bảo mật",
+            "Không cần Internet",
+            "Không cần backup",
+            "Giảm CAPEX ban đầu"
+        ],
+        "answer": 3
     },
     {
-        "question": "Câu 121. Ai là người khai phá tư tưởng độc lập dân tộc gắn liền với CNXH ở Việt Nam?",
+        "question": "Câu 31: Auto Scaling giúp:",
         "options": [
-            "V.I Lênin",
-            "Đặng Tiểu Bình",
-            "Hồ Chí Minh",
-            "Phạm Văn Đồng"
+            "Xóa database không còn được sử dụng",
+            "Tắt Internet",
+            "Tự động mở rộng tài nguyên",
+            "Ép xung CPU"
         ],
         "answer": 2
     },
     {
-        "question": "Câu 122. Quốc hội đầu tiên của nước Việt Nam dân chủ cộng hoà được thành lập vào thời gian nào?",
-        "options": ["4/1/1946", "1/6/1946", "6/1/1946", "7/1/1946"],
-        "answer": 2
-    },
-    {
-        "question": "Câu 123. Theo Hồ Chí Minh, để phát huy sức mạnh cá nhân người lao động, cần phải:",
+        "question": "Câu 32: Pod trong Kubernetes là:",
         "options": [
-            "Tác động vào nhu cầu và lợi ích của con người",
-            "Tác động vào động lực chính trị - tinh thần của con người",
-            "Tác động vào sở thích của cá nhân con người",
-            "Tác động vào nguyện vọng và mong muốn của họ"
-        ],
-        "answer": 0
-    },
-    {
-        "question": "Câu 124. Theo Hồ Chí Minh, nhiệm vụ lịch sử của thời kỳ quá độ là:",
-        "options": [
-            "Xây dựng nền tảng vật chất và kỹ thuật của chủ nghĩa xã hội",
-            "Xây dựng nền tảng vật chất và kỹ thuật cho chủ nghĩa xã hội; cải tạo xã hội cũ và xây dựng xã hội mới",
-            "Cải tạo nền kinh tế cũ và xây dựng nền kinh tế mới",
-            "Đập tan chế độ thực dân và phong kiến"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 125. Bầu cử các đại biểu Quóc hội và Hội đồng Nhân dân các cấp của dân vào các cơ quan quyền lực nhà nước thuộc loại hình dân chủ nào?",
-        "options": [
-            "Gián tiếp",
-            "Vừa trực tiếp vừa gián tiếp",
-            "Trực tiếp",
-            "Tự do"
+            "Đơn vị triển khai nhỏ nhất",
+            "Một loại database",
+            "Hypervisor",
+            "Switch mạng"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 126. Theo Hồ Chí Minh, trong thời kỳ quá độ, thành phần kinh tế phải đảm bảo ưu tiên cho nó phát triển là:",
+        "question": "Câu 33: CI/CD giúp:",
         "options": [
-            "Kinh tế hợp tác xã",
-            "Kinh tế quốc doanh",
-            "Kinh tế tư bản tư nhân",
-            "Kinh tế cá thể - tiểu chủ"
+            "Tăng nhiệt CPU",
+            "Tự động hóa build và deploy",
+            "Chạy game",
+            "Xóa source code"
         ],
         "answer": 1
     },
     {
-        "question": "Câu 127. Hồ Chí Minh đề cập đến chủ nghĩa xã hội nhiều nhất vào thời gian nào?",
-        "options": ["1920-1930", "1930 – 1945", "1945-1954", "1954-1969"],
-        "answer": 3
-    },
-    {
-        "question": "Câu 128. Theo Hồ Chí Minh, mục tiêu của chủ nghĩa xã hội là:",
+        "question": "Câu 34: Monitoring dùng để:",
         "options": [
-            "Không ngừng cải thiện đời sống nhân dân",
-            "Không ngừng cải thiện và nâng cao đời sống của nhân dân lao động",
-            "Không ngừng nâng cao đời sống nhân dân",
-            "Đảm bảo quyền làm chủ của nhân dân"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 129. Trong chế độ xã hội chủ nghĩa, theo Hồ Chí Minh: “Chủ nghĩa xã hội là lấy nhà máy, xe, lửa, ngân hàng làm [……]”",
-        "options": ["Công hữu", "Sở hữu chung", "Của chung", "Tư hữu"],
-        "answer": 2
-    },
-    {
-        "question": "Câu 130. Theo Hồ Chí Minh, đấu tranh chống chủ nghĩa cá nhân nghĩa là:",
-        "options": [
-            "Chỉ bảo vệ lợi ích của tập thể",
-            "Bảo vệ lợi ích cá nhân",
-            "Loại bỏ lợi ích cá nhân",
-            "Không dày xéo lên lợi ích của cá nhân"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 131. Theo Hồ Chí Minh, động lực quan trọng nhất của chủ nghĩa xã hội là gì?",
-        "options": [
-            "Khoa học – kỹ thuật",
-            "Con người",
-            "Văn hóa",
-            "Sự giúp đỡ của quốc tế"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 132. Xây dựng nhà nước pháp quyền XHCN của dân, do dân, vì dân ở nước ta hiện nay cần phải làm gì?",
-        "options": [
-            "Tăng cường sự lãnh đạo của Đảng",
-            "Dân chủ hoá tổ chức và hoạt động của bộ máy Nhà nước.",
-            "Xây dựng hệ thống luật pháp hoàn chỉnh và phân lập rõ các quyền lập pháp, hành pháp và tư pháp.",
-            "Đưa luật pháp vào cuộc sống."
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 133. Theo Hồ Chí Minh, chế độ chính trị mà chúng ta xây dựng là chế độ:",
-        "options": [
-            "Do nhân dân lao động làm chủ",
-            "Do nhân dân làm chủ",
-            "Do giai cấp công nhân làm chủ",
-            "Do giai cấp công nông làm chủ"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 134. Theo Hồ Chí Minh, nền kinh tế mà chúng ta xây dựng phải được tạo lập trên cơ sở:",
-        "options": [
-            "Nền nông nghiệp hiện đại",
-            "Khoa học kỹ thuật phát triển",
-            "Nền công nghiệp hiện đại",
-            "Chế độ công hữu về tư liệu sản xuất"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 135. Theo Hồ Chí Minh, kẻ thù hung ác của chủ nghĩa xã hội là gì?",
-        "options": [
-            "Tham ô, lãng phí",
-            "Các lực lượng phản động",
-            "Chủ nghĩa cá nhân",
-            "Thói hư, tật xấu"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 136. Theo Hồ Chí Minh, đặc trưng nổi bật của chủ nghĩa xã hội là gì?",
-        "options": [
-            "Khoa học – kỹ thuật phát triển",
-            "Sở hữu xã hội về tư liệu sản xuất",
-            "Cơ cấu công – nông nghiệp hợp lý",
-            "Sỡ hữu tư nhân về tư liệu sản xuất"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 137. Dưới đây là một số luận điểm của Hồ Chí Minh về một nhà nước của dân, do dân, vì dân. Hỏi luận điểm nào trực tiếp thể hiện tư tưởng nhà nước vì dân?",
-        "options": [
-            "Nước ta là nước dân chủ",
-            "Cách mệnh rồi thì quyền giao cho dân chúng số nhiều, chớ để trong tay một bọn ít người",
-            "Hễ chính phủ nào mà có hại cho dân chúng thì dân chúng phải đạp đổ chính phủ ấy đi và gây nên chính phủ khác.",
-            "Việc gì có lợi cho dân ta phải hết sức làm. Việc gì hại đến dân, ta phải hết sức tránh."
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 138. Chọn cụm từ điền vào chỗ trống [….. ] đúng với tư tưởng Hồ Chí Minh: Việt Nam đi lên CNXH từ một nước thuộc địa nửa phong kiến […... ]",
-        "options": [
-            "Bỏ qua giai đoạn phát triển TBCN",
-            "Không kinh qua giai đoạn phát triển TBCN",
-            "Bỏ qua TBCN",
-            "Xuyên qua CNTB"
+            "Theo dõi hệ thống",
+            "Tăng RAM cho VM",
+            "Xóa dữ liệu cache",
+            "Xem địa chỉ IP của VM"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 139. Chọn cụm từ điền vào chỗ trống [….. ] đúng với tư tưởng Hồ Chí Minh: “Nông dân giàu thì nước ta giàu, [….... ] thịnh thì nước ta thịnh”",
-        "options": ["Công nghiệp", "Nông nghiệp", "Thương nghiệp", "Nông dân"],
+        "question": "Câu 35: Backup cloud giúp:",
+        "options": [
+            "Tạo bản cập nhật phần mềm",
+            "Sao lưu",
+            "Lưu lại Log của máy chủ",
+            "Xóa log"
+        ],
         "answer": 1
     },
     {
-        "question": "Câu 140. Trong thời kỳ quá độ lên chủ nghĩa xã hội, Hồ Chí Minh chủ trương đối xử với giai cấp tư sản dân tộc như thế nào?",
+        "question": "Câu 36: Disaster Recovery là:",
         "options": [
-            "Không xóa bỏ quyền sở hữu về tư liệu sản xuất của họ",
-            "Xóa bỏ quyền sở hữu về tư liệu sản xuất của họ",
-            "Đưa họ vào kinh tế tập thể",
-            "Đánh đổ họ với tư cách là giai cấp bóc lột"
+            "Xóa server",
+            "Tắt hệ thống khi bị hacker đột nhập",
+            "Kế hoạch khôi phục sau sự cố",
+            "Giảm tốc độ mạng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 37: VPN giúp:",
+        "options": [
+            "Tạo ra đường truyền riêng",
+            "Tăng độ sáng màn hình",
+            "Tăng âm lượng loa",
+            "Kết nối an toàn qua Internet"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 38: Firewall dùng để:",
+        "options": [
+            "Kiểm soát tốc độ tải xuống của người dùng",
+            "Chặn cài đặt phần mềm trái phép",
+            "Kiểm soát truy cập mạng",
+            "Tạo máy ảo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 39: HTTPS giúp:",
+        "options": [
+            "Mã hóa dữ liệu truyền tải",
+            "Tăng tốc độ truy cập internet",
+            "Mã hóa đầu cuối",
+            "Mã hóa địa chỉ IP của người dùng"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 141. Theo Hồ Chí Minh, cách làm của chủ nghĩa xã hội là:",
+        "question": "Câu 40: SSH thường dùng để:",
         "options": [
-            "Phải dựa vào sự giúp đỡ của các nước xã hội chủ nghĩa",
-            "Nhà nước phải ban phát từ trên xuống",
-            "Đem tài dân, sức dân, của dân để làm lợi cho dân",
-            "Dựa vào Nhà nước và sự giúp đỡ của các nước khác"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 142. Theo tư tưởng Hồ Chí Minh, nhà nước ta mang bản chất của:",
-        "options": [
-            "Nhân dân lao động",
-            "Giai cấp công nhân",
-            "Gai cấp công – nông",
-            "Giai cấp nông dân"
+            "Truy cập từ xa máy Windows",
+            "Remote server Linux an toàn",
+            "Quản lý máy in trong mạng nội bộ",
+            "Tạo DNS"
         ],
         "answer": 1
     },
     {
-        "question": "Câu 143. Theo Hồ Chí Minh, con đường đi lên chủ nghĩa xã hội trong nông nghiệp bao gồm những bước:",
+        "question": "Câu 41: AWS Route 53 là:",
         "options": [
-            "Cải cách ruộng đất",
-            "Xã hội hóa nông thôn",
-            "Xây dựng hợp tác xã cấp thấp và cấp cao",
-            "Cả ba đáp án trên đều đúng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 144. Để đảm bảo thực hiện thắng lợi CNXH ở Việt Nam trong thời kỳ quá độ, theo Hồ Chí Minh phải:",
-        "options": [
-            "Tăng cường sự lãnh đạo của Đảng, vai trò quản lý của Nhà nước",
-            "Phát huy tính tích cực, chủ động của các tổ chức chính trị - xã hội",
-            "Xây dựng đội ngũ cán bộ đủ sức, đủ tài",
-            "Tất cả các phương án đều đúng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 145. Theo Hồ Chí Minh, chủ nghĩa cộng sản dễ thích ứng ở đâu?",
-        "options": [
-            "Các nước Châu Âu",
-            "Các nước Tư bản phát triển",
-            "Các nước Châu Á, Phương Đông",
-            "Các nước kém phát triển"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 146. Luận điểm nào sau đây là sai? Theo tư tưởng Hồ Chí Minh, Đảng lãnh đạo Nhà nước bằng:",
-        "options": [
-            "Đường lối, chủ trương, chính sách",
-            "Qua các tổ chức đảng và đảng viên của mình trong bộ máy Nhà nước",
-            "Hiến pháp và pháp luật",
-            "Công tác kiểm tra"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 147. Luận điểm nào sau đây là sai? Theo tư tưởng Hồ Chí Minh, trong thời kỳ quá độ còn tồn tại các hình thức sở hữu:",
-        "options": [
-            "Sỡ hữu nhà nước",
-            "Sở hữu công cộng",
-            "Sở hữu của người lao động và của nhà tư bản",
-            "Sỡ hữu tập thế"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 148. Chọn cụm từ điền vào chỗ trống [……] đúng với tư tưởng Hồ Chí Minh: “Việc gì có lợi cho [……], ta phải hết sức làm “Việc gì có hại cho [……], ta phải hết sức tránh…”",
-        "options": ["Nhà nước", "Dân", "Đảng", "Đảng và Nhà nước"],
-        "answer": 1
-    },
-    {
-        "question": "Câu 149. Theo tư tưởng Hồ Chí Minh, trong thời kỳ quá độ còn tồn tại hình thức:",
-        "options": [
-            "Sỡ hữu của nhà nước",
-            "Sỡ hữu của người lao động riêng lẻ và sỡ hữu của nhà tư bản",
-            "Sỡ hữu của hợp tác xã",
-            "Sỡ hữu công hữu"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 150. Theo tư tưởng Hồ Chí Minh, muốn xây dựng chủ nghĩa xã hội, trước hết cần có cái gì?",
-        "options": [
-            "Con người năng động, sáng tạo",
-            "Có cơ sở vật chất",
-            "Con người xã hội chủ nghĩa",
-            "Có Đảng lãnh đạo"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 151. Theo Hồ Chí Minh, nguyên tắc phân phối chủ yếu trong chủ nghĩa xã hội là gì?",
-        "options": [
-            "Làm theo năng lực, hưởng theo nhu cầu",
-            "Làm theo nhu cầu, hưởng theo lợi ích",
-            "Làm theo năng lực, hưởng theo lao động",
-            "Phân phối bình quân cho tất cả mọi người"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 152. Theo tư tưởng Hồ Chí Minh, vai trò lãnh đạo của Đảng đối với Nhà nước được quy định bởi:",
-        "options": ["Pháp luật", "Điều lệ Đảng", "Hiến pháp", "Chính sách"],
-        "answer": 2
-    },
-    {
-        "question": "Câu 153. Chọn phương án trả lời sai: Theo Hồ Chí Minh, để xác định bước đi và tìm cách làm cho chủ nghĩa xã hội phù hợp với Việt Nam cần phải:",
-        "options": [
-            "Có thể tham khảo, học tập kinh nghiệm của các nước anh em",
-            "Có những cán bộ xuất chúng",
-            "Xuất phát từ điều kiện thực tế, đặc điểm dân tộc, nhu cầu và khả năng thực tế của nhân dân.",
-            "Quán triệt các nguyên lý cơ bản của chủ nghĩa Mác -Lênin"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 154. Theo Hồ Chí Minh, đặc trưng nổi bật về chính trị của chủ nghĩa xã hội là gì?",
-        "options": [
-            "Đảng Cộng sản lãnh đạo",
-            "Mọi người được hưởng các quyền tự do dân chủ",
-            "Thực hiện một nền dân chủ triệt để",
-            "Mọi lợi ích đều từ nhân dân"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 155. Theo Hồ Chí Minh, nội dung nào được coi là nhiệm vụ trung tâm của thời kỳ quá độ lên chủ nghĩa xã hội:",
-        "options": [
-            "Phát triển kinh tế",
-            "Phát triển kinh tế và văn hóa",
-            "Công nghiệp hóa",
-            "Xây dựng thành công chủ nghĩa xã hội"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 156. Theo Hồ Chí Minh, quá độ lên Chủ nghĩa xã hội ở Việt Nam là kiểu quá độ:",
-        "options": [
-            "Trực tiếp",
-            "Gián tiếp",
-            "Vừa trực tiếp vừa gián tiếp",
-            "Đặc biệt"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 157. Theo Hồ Chí Minh, trong mối quan hệ giữa hai nhiệm vụ cải tạo xã hội cũ và xây dựng xã hội mới thì:",
-        "options": [
-            "Cải tạo xã hội cũ là nhiệm vụ trung tâm, chủ chốt",
-            "Cải tạo xã hội cũ trước, xây xựng xã hội mới sau",
-            "Xây dựng xã hội mới là trọng tâm, cốt yếu, chủ chốt, lâu dài",
-            "Cải tạo xã hội cũ và xây dựng xã hội mới đều là nhiệm vụ trọng tâm"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 158. Theo Hồ Chí Minh, yếu tố nào là hạt nhân trong hệ động lực của chủ nghĩa xã hội?",
-        "options": [
-            "Sự quản lý của nhà nước",
-            "Kinh tế",
-            "Sự lãnh đạo đúng đắn của Đảng",
-            "Con người"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 159. Đường lối công nghiệp hoá xã hội chủ nghĩa, hiện đại hoá ở nước ta được đề ra ở Đại hội nào của Đảng?",
-        "options": [
-            "Đại hội III(1960)",
-            "Đại hội V(1982)",
-            "Đại hội IV(1976)",
-            "Đại hội VI(1986)"
+            "Dịch vụ DNS",
+            "Dịch vụ email",
+            "Hypervisor",
+            "Dịch vụ quản lý Domain"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 160. Theo Hồ Chí Minh, tại sao cần thực hiện chế độ làm khoán dưới chủ nghĩa xã hội?",
+        "question": "Câu 42: Azure Blob Storage dùng để:",
         "options": [
-            "Khuyến khích được lợi ích của người lao động",
-            "Có lợi cho nhà nước",
-            "Kết hợp được lợi ích của người lao động, lợi ích của tập thể và nhà nước",
-            "Khuyến khích được lợi ích của tập thể và xã hội"
+            "Tạo VPN",
+            "Chạy VM",
+            "Chạy container",
+            "Lưu trữ object"
         ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 161. Theo Hồ Chí Minh, trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta còn tồn tại mấy thành phần kinh tế?",
-        "options": ["3", "4", "5", "6"],
-        "answer": 2
-    },
-    {
-        "question": "Câu 162. Muốn phát huy động lực của chủ nghĩa xã hội, theo Hồ Chí Minh cần phải chống:",
-        "options": [
-            "Chia rẽ, bè phái, mất đoàn kết, vô kỷ luật",
-            "Chủ nghĩa cá nhân; tham ô, lãng phí, quan liêu; chia rẽ, bè phái, vô kỷ luật",
-            "Tham ô, lãng phí, quan liêu",
-            "Chủ nghĩa cá nhân"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 163. Tìm luận điểm không đúng với tư tưởng Hồ Chí Minh:",
-        "options": [
-            "Công nghiệp hóa là con đường tất yếu phải đi của chúng ta",
-            "Công nghiệp hóa phải bắt đầu từ xây dựng và phát triển công nghiệp nặng",
-            "Công nghiệp hóa phải trên cơ sở xây dựng, phát triển một nền nông nghiệp toàn diện",
-            "Công nghiệp hóa phải trên cơ sở pt công nghiệp nhẹ, tiểu thủ công nghiệp"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 164. Theo Hồ Chí Minh, biện pháp nào quan trọng nhất trong xây dựng chủ nghĩa xã hội?",
-        "options": [
-            "Tranh thủ tối đa sự giúp đỡ, viện trợ quốc tế",
-            "Kết hợp xây dựng và bảo vệ đất nước",
-            "Huy động các nguồn lực sẵn có trong dân",
-            "Kết hợp cải tạo xã hội cũ và xây dựng xã hội mới"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 165. Xu thế phát triển của chủ đạo của thế giới hiện nay là:",
-        "options": [
-            "Đối đầu giữa các quốc gia và dân tộc",
-            "Đụng độ giữa các nền văn minh và các nền văn hóa",
-            "Hòa bình, hợp tác và phát triển.",
-            "Xung đột dân tộc và tôn giáo"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 166. Theo Hồ Chí Minh, về bước đi trong thời kỳ quá độ, chúng ta phải:",
-        "options": [
-            "Không cần trải qua bước nào",
-            "Làm thật mau và rầm rộ",
-            "Trải qua nhiều bước",
-            "Cả 3 đáp án trên đều đúng"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 167. Theo Hồ Chí Minh, về bước đi trong thời kỳ quá độ, chúng ta phải:",
-        "options": [
-            "Theo bước đi của các nước xã hội chủ nghĩa",
-            "Căn cứ vào đặc điểm lịch sử cụ thể của nước ta từ đó có bước đi phù hợp",
-            "Căn cứ vào đặc điểm lịch sử cụ thể của nước ta từ có có bước đi phù hợp, đi bước nào vững chắc bước ấy",
-            "Theo bước đi và cách làm của Liên Xô"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 168. Căn cứ vào thực tiến xây dựng chủ nghĩa xã hội ở Việt Nam, theo Hồ Chí Minh, độ dài của thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta là:",
-        "options": ["15 năm", "20 năm", "100 năm", "Lâu dài"],
         "answer": 3
     },
     {
-        "question": "Câu 169. Theo Hồ Chí Minh có mấy loại hình đi lên chủ nghĩa xã hội?",
-        "options": ["1", "2", "3", "4"],
-        "answer": 1
-    },
-    {
-        "question": "Câu 170. Theo Hồ Chí Minh, nhiệm vụ lịch sử của thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta là:",
+        "question": "Câu 43: Google Cloud Storage thuộc loại:",
         "options": [
-            "Xây dựng nền tảng vật chất và kỷ thuật của chủ nghĩa xã hội",
-            "Cải tạo nền kinh tế cũ và xây dựng nền kinh tế mới",
-            "Không có phương án nào đúng",
-            "Không có phương án nào sai"
+            "Object Storage",
+            "Compute",
+            "Monitoring",
+            "Messaging"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 171. Đảng cộng sản Việt Nam ra đời ngày tháng năm nào, tại đâu?",
+        "question": "Câu 44: Serverless computing có ưu điểm:",
         "options": [
-            "Ngày 3/2/1929 tại Tân Trào.",
-            "Ngày 3/2/1930 tại Quảng Châu- Trung Quốc",
-            "Ngày 3/2/1930 tại Hương Cảng- Trung Quốc",
-            "Ngày 3/2/1930 tại Pắc Pó"
+            "Không cần source code",
+            "Không cần Internet",
+            "Không cần quản lý server",
+            "Không cần database"
         ],
         "answer": 2
     },
     {
-        "question": "Câu 172. Theo Hồ Chí Minh, Đảng Cộng sản Việt Nam là Đảng của:",
+        "question": "Câu 45: Microservices là kiến trúc:",
         "options": [
-            "Giai cấp công nhân",
-            "Giai cấp công nhân, nhân dân lao động và của dân tộc Việt Nam",
-            "Giai cấp nông dân",
-            "Nhân dân lao động"
+            "Chỉ có một máy chủ (server)",
+            "Chia ứng dụng thành dịch vụ (service) nhỏ",
+            "Không dùng API",
+            "Không dùng mạng internet"
         ],
         "answer": 1
     },
     {
-        "question": "Câu 173. Theo Hồ Chí Minh, mục tiêu, lý tưởng của Đảng Cộng sản Việt Nam là:",
+        "question": "Câu 46: REST API thường dùng giao thức:",
         "options": [
-            "Vì lợi ích của giai cấp công nhân",
-            "Phụng sự tổ quốc, phục vụ nhân dân",
-            "Xây dựng một nước Việt Nam giàu mạnh",
-            "Đảng ta không có mục đích , lý tưởng nào"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 174. Vì sao giai cấp nông dân không thể lãnh đạo được cuộc cách mạng XHCN?",
-        "options": [
-            "Họ đông nhưng không mạnh.",
-            "Họ không có chính đảng.",
-            "Họ không đại diện cho PTSX tiên tiến",
-            "Họ không có hệ tư tưởng độc lập và không đại diện cho PTSX tiên tiến"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 175. Theo Hồ Chí Minh, vai trò lãnh đạo của giai cấp công nhân trong cách mạng Việt Nam do yếu tố nào quyết định?",
-        "options": [
-            "Do ý muốn của Đảng cộng sản",
-            "Do đặc tính cuả giai cấp công nhân",
-            "Do ý muốn của giai cấp công nhân",
-            "Do số lượng giai cấp công nhân"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 176. Đảng ta có tên gọi Đảng Lao động Việt Nam từ khi nào?",
-        "options": ["1941", "1945", "1951", "1955"],
-        "answer": 2
-    },
-    {
-        "question": "Câu 177. Theo Hồ Chí Minh, một trong những nguyên tắc tổ chức và sinh hoạt Đảng cơ bản đó là:",
-        "options": [
-            "Thiểu số phục tùng đa số",
-            "Biểu quyết hoặc bỏ phiếu kín",
-            "Tập trung dân chủ",
-            "Cấp dưới phục tùng cấp trên"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 178. Bản chất giai cấp công nhân của Đảng Cộng sản Việt Nam thể hiện ở:",
-        "options": [
-            "Mục tiêu của Đảng",
-            "Số lượng đảng viên trong Đảng",
-            "Trình độ đảng viên trong Đảng",
-            "Nền tảng lý luận, mục tiêu, nguyên tắc tổ chức của Đảng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 179. Chọn câu trả lời sai theo tư tưởng Hồ Chí Minh về nguyên tắc xây dựng Đảng Cộng sản Việt Nam?",
-        "options": [
-            "Tập trung dân chủ",
-            "Tự phê bình và phê bình",
-            "Thiểu số phục tùng đa số",
-            "Đoàn kết thống nhất trong Đảng"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 180. Theo tư tưởng Hồ Chí Minh, Đảng Cộng sản Việt Nam vừa là người lãnh đạo, vừa là người đầy tớ trung thành của nhân dân, Đảng phải chăm lo mối quan hệ giữa Đảng với nhân dân là nhằm",
-        "options": [
-            "Xác định vị thế cầm quyền của Đảng",
-            "Xác định năng lực cầm quyền của Đảng",
-            "Xác định phương thức cầm quyền của Đảng",
-            "Tất cả các phương án đều đúng"
+            "HTTP",
+            "FTP",
+            "SMTP",
+            "Bluetooth"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 181. Nguyên tắc xây dựng Đảng kiểu mới theo tư tưởng Hồ Chí Minh là:",
+        "question": "Câu 47: Database dạng NoSQL phù hợp với:",
         "options": [
-            "Tập trung dân chủ; Tập thể lãnh đạo cá nhân phụ trách;",
-            "Đoàn kết thống nhất trong Đảng",
-            "Tự phê bình và phê bình",
-            "Tất cả các nguyên tắc đều đúng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 182. Luận điểm: “Đảng muốn vững thì phải có chủ nghĩa làm côt, trong Đảng ai cũng phải hiểu, ai cũng phải theo chủ nghĩa ấy. Đảng mà không có chủ nghĩa như người không có trí khôn, tàu không có bản chỉ nam”, được trích từ tác phẩm nào của Hồ Chí Minh?",
-        "options": [
-            "Tuyên ngôn độc lập",
-            "Điều lệ vắn tắt",
-            "Đường Cách mệnh",
-            "Thường thức Chính trị"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 183. Đảng Cộng sản Việt Nam trở thành Đảng cầm quyền năm nào?",
-        "options": ["1930", "1945", "1951", "1975"],
-        "answer": 1
-    },
-    {
-        "question": "Câu 184. \"Trứớc hết phải có Đảng cách mệnh để trong thì vận động và tổ chức dân chúng, người thì liên lạc với dân tộc bị áp bức và vô sản giai cấp mọi nơi.\" Câu nói đó được Nguyễn Ái Quốc viết trong tác phẩm nào?",
-        "options": [
-            "Sửa đổi lối làm việc",
-            "Đây “công lý” của thực dân Pháp ở Đông Dương",
-            "Đường cách mệnh",
-            "V. I. Lênin và Phương Đông"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 185. Luận điểm: “Phải giữ gìn Đảng ta thật trong sạch, phải xứng đáng là người lãnh đạo, là người đầy tớ thật trung thành của nhân dân” được trích từ tác phẩm nào của Hồ Chí Minh?",
-        "options": [
-            "Sửa đổi lối làm việc",
-            "Di chúc",
-            "Đường Cách mệnh",
-            "Thường thức Chính trị"
+            "Dữ liệu từ cảm biến GPS",
+            "Dữ liệu phi cấu trúc",
+            "Dữ liệu tập tin (ảnh, văn bản,..)",
+            "Dữ liệu giao dịch tài chính"
         ],
         "answer": 1
     },
     {
-        "question": "Câu 186. Quan điểm: “Đảng là đạo đức, là văn minh” được Hồ Chí Minh trình bày trong tác phẩm nào?",
+        "question": "Câu 48: AWS DynamoDB là:",
         "options": [
-            "Báo cáo Chính trị tại Đại hội đại biểu toàn quốc lần thứ II của Đảng",
-            "Bài nói chuyện tại lễ kỷ niệm 30 năm thành lập Đảng",
-            "Sách lược vắn tắt",
-            "Đường Cách mệnh"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 187. Điểm đặc sắc nhất trong tư tưởng Hồ Chí Minh về nhà nước pháp quyền là gì?",
-        "options": [
-            "Coi trọng pháp luật trong quản lý xã hội",
-            "Đề cao đạo đức trong quản lý xã hội",
-            "Đảm bảo tính nghiêm minh và hiệu lực của công việc",
-            "Kết hợp nhuần nhuyễn cả pháp luật và đạo đức trong quản lý xã hội"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 188. Theo Hồ Chí Minh, trong quan hệ với quần chúng, Đảng phải",
-        "options": [
-            "Luôn nghe theo quần chúng",
-            "Luôn lắng nghe và thực hiện theo yêu cầu của quần chúng",
-            "Thực hiện theo yêu cầu của quần chúng",
-            "Không được theo đuôi quần chúng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 189. Theo Hồ Chí Minh, nguy cơ lớn nhất của một đảng cầm quyền là:",
-        "options": [
-            "Diến biến hòa bình",
-            "Sai lầm về đường lối và sự suy thoái đạo đức của cán bộ, đảng viên.",
-            "Chệch hướng",
-            "Tụt hậu"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 190. Chọn cụm từ điền vào chỗ trống [….. ]: Trong Di chúc, Hồ Chí Minh đã xác định: “Đảng ta là một đảng cầm quyền. Mỗi đảng viên phải thực sự thấm nhuần [……]”.",
-        "options": [
-            "Mục tiêu của Đảng",
-            "Đường lối của Đảng",
-            "Nền tảng tư tưởng của Đảng",
-            "Đạo đức cách mạng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 191. Một nhà nước pháp quyền có hiệu lực pháp lý mạnh mẽ theo Hồ Chí Minh phải là:",
-        "options": [
-            "Một nhà nước không có tiêu cực, không có đặc quyền, đặc lợi",
-            "Một nhà nước hợp hiến",
-            "Một nhà nước thống nhất, có chủ quyền quốc gia",
-            "Một nhà nước của dân, do dân, vì dân"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 192. Theo tư tưởng Hồ Chí Minh, luận điểm Đảng Cộng sản Việt Nam là sản phẩm của sự kết hợp giữa chủ nghĩa Mác Lênin với phong trào công nhân và phong trào yêu nước là:",
-        "options": [
-            "Xác định nhiệm vụ của Đảng",
-            "Xác định bản chất của Đảng",
-            "Xác định năng lực của Đảng",
-            "Xác định nguồn gốc ra đời của Đảng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 193. Theo tư tưởng Hồ Chí Minh, luận điểm Đảng Cộng sản Việt Nam là nhân tố quyết định hàng đầu để đưa cách mạng Việt Nam đi đến thắng lợi là:",
-        "options": [
-            "Xác định vị thế cầm quyền của Đảng",
-            "Xác định bản chất của Đảng",
-            "Xác định vai trò lãnh đạo của Đảng",
-            "Xác định nhiệm vụ của Đảng"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 194. Theo tư tưởng Hồ Chí Minh, Đảng Cộng sản Việt Nam phải lấy chủ nghĩa Mác – Lênin ”làm cốt”, nghĩa là:",
-        "options": [
-            "Đảng Cộng sản Việt Nam phải lấy chủ nghĩa Mác – Lênin làm nền tảng tư tưởng",
-            "Đảng Cộng sản Việt Nam phải lấy chủ nghĩa Mác – Lênin làm chủ trương, đường lối",
-            "Đảng Cộng sản Việt Nam phải lấy chủ nghĩa Mác – Lênin làm học thuyết của Đảng",
-            "Đảng Cộng sản Việt Nam phải căn cứ hoàn toàn vào chủ nghĩa Mác – Lênin để lãnh đạo cách mạng"
+            "NoSQL Database",
+            "SQL Database",
+            "Object Storage",
+            "VPN"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 195. Điền vào chỗ trống [……] đúng theo tư tưởng Hồ Chí Minh: ”Làm cách mệnh rồi thì quyền trao cho […….] chớ để trong tay một bọn ít người”",
+        "question": "Câu 49: SQL database lưu dữ liệu dưới dạng:",
         "options": [
-            "Giai cấp công nhân",
-            "Giai cấp nông dân",
-            "Dân chúng số nhiều",
-            "Giai cấp tư sản dân tộc"
+            "Bảng không có quan hệ",
+            "File",
+            "Bảng quan hệ",
+            "Có nhiều cách tổ chức lưu trữ"
         ],
         "answer": 2
     },
     {
-        "question": "Câu 196. \"Công nông là gốc cách mệnh, còn học trò, nhà buôn nhỏ, địa chủ nhỏ, ... là bầu bạn cách mệnh của công nông\". Nguyễn Ái Quốc viết câu đó trong tác phẩm nào?",
+        "question": "Câu 50: Edge Computing giúp:",
         "options": [
-            "Bản án chế độ thực dân Pháp",
-            "Nông dân Trung Quốc",
-            "V. I. Lênin và Phương Đông",
-            "Đường cách mệnh"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 197. Theo tư tưởng Hồ Chí Minh, mục đích, lý tưởng của Đảng cầm quyền là:",
-        "options": [
-            "Xây dựng một nước Việt Nam giàu mạnh",
-            "Vì lợi ích của Tổ quốc, của nhân dân",
-            "Xây dựng thành công chủ nghĩa xã hội",
-            "Không tham ô, tham những"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 198. Chọn phương án trả lời đúng theo tư tưởng Hồ Chí Minh:",
-        "options": [
-            "Pháp luật đúng là pháp luật thể hiện và bảo vệ được lợi ích của dân.",
-            "Pháp luật đúng là pháp luật bảo vệ lợi ích của giai cấp cầm quyền",
-            "Pháp luật đúng là pháp luật duy trì sự cầm quyền của Dảng",
-            "Pháp luật đúng là công cụ thống trị của thế lực cầm quyền"
+            "Xử lý gần nơi phát sinh dữ liệu",
+            "Tăng dung lượng USB",
+            "Giảm số lượng CPU",
+            "Xóa cache"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 199. Chọn cụm từ đúng điền vào chỗ trống [….. ]. Trong xây dựng Đảng, Hồ Chí Minh xác định: “Mục đích phê bình cốt để [……], giúp nhau tiến bộ”.",
+        "question": "Câu 51: Load testing dùng để:",
         "options": [
-            "Sửa chữa sai lầm",
-            "Giúp nhau sữa chữa",
-            "Chỉ ra sai lầm",
-            "Giúp nhau cải tạo"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 200. Theo Hồ Chí Minh: “Đảng có vững, [……] mới thành công, cũng như người cầm lái có vững thì [……]”.",
-        "options": [
-            "Cách mệnh; thuyền chạy;",
-            "Cách mạng; thuyền mới chạy;",
-            "Cách mạng; thuyền chạy",
-            "Cách mệnh; thuyền mới chạy"
+            "Ép xung GPU",
+            "Xóa dữ liệu",
+            "Tạo VPN",
+            "Kiểm tra tải hệ thống"
         ],
         "answer": 3
     },
     {
-        "question": "Câu 201. Ai là Tổng Bí thư đầu tiên của Đảng Cộng sản Việt Nam?",
+        "question": "Câu 52: Latency là:",
         "options": [
-            "Hồ Chí Minh",
-            "Trần Văn Cung",
-            "Trần Phú",
-            "Lê Hồng Phong"
+            "Tốc độ CPU",
+            "Dung lượng RAM",
+            "Độ trễ mạng",
+            "Độ sáng màn hình"
         ],
         "answer": 2
     },
     {
-        "question": "Câu 202. Hiến pháp đầu tiên của nước ta do Hồ Chí Minh soạn thảo được thông qua vào thời gian nào?",
-        "options": ["1945", "1946", "1950", "1954"],
-        "answer": 1
-    },
-    {
-        "question": "Câu 203. Luận điểm sau đây là của ai? “Đảng là trí tuệ, lương tâm, danh dự của dân tộc và thời đại”",
-        "options": ["Các Mác", "Ăng ghen", "Lênin", "Hồ Chí Minh"],
-        "answer": 2
-    },
-    {
-        "question": "Câu 204. Theo Hồ Chí Minh, Đảng phải thường xuyên tự đổi mới, tự chỉnh đốn về mặt:",
+        "question": "Câu 53: Bandwidth là:",
         "options": [
-            "Chính trị.",
-            "Tư tưởng",
-            "Tổ chức",
-            "Cả chính trị, tư tưởng và tổ chức"
+            "Hệ điều hành",
+            "Loại CPU",
+            "Loại container",
+            "Băng thông mạng"
         ],
         "answer": 3
     },
     {
-        "question": "Câu 205. Nhà nước của dân theo tư tưởng Hồ Chí Minh nghĩa là:",
+        "question": "Câu 54: Snapshot trong cloud là:",
         "options": [
-            "Chăm lo mọi mặt đời sống của nhân dân",
-            "Mọi quyền lực trong nhà nước và trong xã hội đều thuộc về nhân dân",
-            "Mọi công việc của nhà nước do dân quyết định",
-            "Đại biểu của nhà nước do dân bầu ra"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 206. Tư tưởng đại đoàn kết dân tộc của Hồ Chí Minh được hình thành trên dựa trên cơ sở nào:",
-        "options": [
-            "Từ truyền thống đoàn kết nhân ái, tinh thần gắn kết cộng đồng dân tộc Việt Nam",
-            "Từ quan điểm của chủ nghĩa Mác –Lênin về vai trò của quần chúng nhân dân",
-            "Từ thực tiễn thành công và thất bại của phong trào cách mạng Việt Nam và thế giới",
-            "Tất cả các phương án đều đúng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 207. Theo Hồ Chí Minh, Mặt trận Dân tộc thống nhất là:",
-        "options": [
-            "Tổ chức của giai cấp nông dân",
-            "Tổ chức của các tầng lớp nhân dân",
-            "Tổ chức của giai cấp công nhân",
-            "Tổ chức của công nhân và nông dân"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 208. Trong tư tưởng Hồ Chí Minh, đại đoàn kết dân tộc là:",
-        "options": [
-            "Là nhiệm vụ hàng đầu của cách mạng",
-            "Là nhiệm vụ quan trọng nhất của cách mạng",
-            "Là mục tiêu, nhiệm vụ hàng đầu của cách mạng, của dân tộc",
-            "Là mục tiêu của cách mạng"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 209. Trong tư tưởng Hồ Chí Minh, nền tảng của khối đại đoàn kết dân tộc là:",
-        "options": [
-            "Liên minh công – nông",
-            "Liên minh công – nông và các lực lượng khác",
-            "Liên minh công – nông – lao động trí óc",
-            "Liên minh công – nông và các tầng lớp khác"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 210. Sức mạnh dân tộc trong tư tưởng Hồ Chí Minh, bao gồm:",
-        "options": [
-            "Chủ nghĩa yêu nước",
-            "Tinh thần đoàn kết, ý thức đấu tranh cho độc lập dân tộc",
-            "Văn hóa truyền thống Việt Nam",
-            "Tất cả các phương án đếu đúng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 211. Sức mạnh đoàn kết quốc tế trong tư tưởng Hồ Chí Minh, bao gồm:",
-        "options": [
-            "Sức mạnh liên minh chiến đấu giữa lao động ở các nước thuộc địa và lao động thuộc địa với vô sản chính quốc",
-            "Sức mạnh của giai cấp vô sản, cách mạng vô sản và Đảng Cộng sản",
-            "Sức mạnh của ba dòng phái cách mạng và tiến bộ khoa học công nghệ",
-            "Tất cả các phương án đếu đúng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 212. Theo Hồ Chí Minh, Mặt trận Dân tộc thống nhất phải dựa trên cơ sở:",
-        "options": [
-            "Đảm bảo lợi lích tối cao của dân tộc, quyền lợi cơ bản của các tầng lớp nhân dân",
-            "Đảm bảo quyền lợi cơ bản của công – nông",
-            "Đảm bảo lợi ích của nhân dân lao động",
-            "Đảm bảo lợi ích tối cao của giai cấp công nhân"
+            "Bản sao trạng thái dữ liệu",
+            "Ảnh selfie",
+            "BIOS backup",
+            "Switch mạng"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 213. Theo Hồ Chí Minh, đoàn kết quốc tế có vai trò như thế nào đối với thắng lợi của cách mạng:",
+        "question": "Câu 55: AWS CloudWatch dùng để:",
         "options": [
-            "Là vấn đề có ý nghĩa chiến lược quyết định sự thắng lợi",
-            "Quan trọng",
-            "Quyết đinh",
-            "Vừa quan trọng vừa quyết định"
+            "Monitoring và logging",
+            "Chạy VM",
+            "Tạo container",
+            "Quản lý DNS"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 214. Theo tư tưởng Hồ Chí Minh, trong Mặt trận Dân tộc thống nhất, Đảng Cộng sản là:",
+        "question": "Câu 56: Azure Monitor là dịch vụ:",
         "options": [
-            "Vừa là thành viên, vừa là lực lượng lãnh đạo Mặt trận Dân tộc thống nhất.",
-            "Lực lượng lãnh đạo Mặt trận Dân tộc thống nhất",
-            "Thành viên của Mặt trận Dân tộc thống nhất",
-            "Đại biểu của giai cấp công nhân trong Mặt trận Dân tộc thống nhất."
+            "Tạo máy ảo",
+            "Giám sát hệ thống",
+            "Tạo VPN",
+            "Chỉnh sửa video"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 57: Logging giúp:",
+        "options": [
+            "Kiểm tra sự cố bởi người dùng",
+            "Thông báo lỗi tới người quản trị",
+            "Kiểm tra ai đã truy cập vào hệ thống",
+            "Ghi lại hoạt động hệ thống"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 58: Multi-region deployment giúp:",
+        "options": [
+            "Tăng tính sẵn sàng",
+            "Tối ưu chi phí",
+            "Hỗ trợ đa ngôn ngữ",
+            "Đảm bảo tuân thủ an toàn thông tin"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 215. Chọn cụm từ điền vào chỗ trống [……] đúng với tư tưởng Hồ Chí Minh: “Chính sách ngoại giao của Chính phủ thì chỉ có một điều tức là thân thiện với [……] trên thế giới để giữ gìn hòa bình”",
+        "question": "Câu 59: High Availability (HA) nghĩa là:",
         "options": [
-            "Các nước xã hội chủ nghĩa",
-            "Tất cả các nước dân chủ",
-            "Các nước lớn",
-            "Mọi nước"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 216. Tên khối đoàn kết dân tộc do Hội nghị Trung ương Đảng lần thứ 6 (11/1939) xác định là mặt trận nào?",
-        "options": [
-            "Mặt trận dân tộc giải phóng",
-            "Mặt trận dân chủ Đông Dương",
-            "Mặt trận dân tộc thống nhất phản đế Đông Dương (thay cho mặt trận dân chủ Đông Dương)",
-            "Mặt trận Việt Minh"
+            "Hệ thống không bị quá tải",
+            "Hệ thống duy trì tốc độ truy cập ổn định",
+            "Hệ thống hoạt động ổn định liên tục",
+            "hệ thống không bị tắt khi cập nhật phiên bản mới"
         ],
         "answer": 2
     },
     {
-        "question": "Câu 217. Chọn cụm từ điền vào chỗ trống [……] theo tư tưởng Hồ Chí Minh: “Cần phải giữ gìn sự đoàn kết nhất trí của Đảng như giữ gìn [……]”",
+        "question": "Câu 60: Docker Hub là:",
         "options": [
-            "Tài sản của mình",
-            "Tính mạng của mình",
-            "Nhân cách của mình",
-            "Con ngươi của mắt mình"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 218. Theo tư tưởng Hồ Chí Minh, một trong những nhân tố đóng vai trò quyết định thắng lợi của cách mạng là:",
-        "options": [
-            "Đoàn kết quốc tế",
-            "Đoàn kết dân tộc",
-            "Đoàn kết dân tộc kết hợp với đoàn kết quốc tế",
-            "Sự giúp đỡ của các nước xã hội chủ nghĩa"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 219. Theo tư tưởng Hồ Chí Minh, một trong những nguyên tắc đoàn kết quốc tế là:",
-        "options": [
-            "Không dùng vũ lực và đe doạ dùng vũ lực",
-            "Đoàn kết trên cơ sở thống nhất mục tiêu và lợi ích, có lý, có tình.",
-            "Các bên cùng có lợi",
-            "Có đi, có lại"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 220. Theo tư tưởng Hồ Chí Minh, yếu tố nào được xác định là mục tiêu, nhiệm vụ hàng đầu của Đảng, của dân tộc?",
-        "options": [
-            "Đoàn kết dân tộc kết hợp với đoàn kết quốc tế",
-            "Đoàn kết quốc tế",
-            "Giải phóng dân tộc",
-            "Đại đoàn kết dân tộc"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 221. Chọn câu trả lời đúng với tư tưởng Hồ Chí Minh?",
-        "options": [
-            "Đại đoàn kết dân tộc là vấn đề sách lược",
-            "Đại đoàn kết dân tộc là thủ đoạn chính trị",
-            "Đại đoàn kết dân tộc là vấn đề chiến lược",
-            "Đại đoàn kết dân tộc là vấn đề cấp bách"
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 222. Chủ trương trong quan hệ quốc tế của Việt Nam hiện nay là:",
-        "options": [
-            "Việt Nam sẵn sàng là bạn của các nước trong cộng đồng quốc tế.",
-            "Việt Nam muốn là bạn, là đối tác của các nước trong cộng đồng quốc tế.",
-            "Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế.",
-            "Việt Nam sẵn sàng là bạn tin cậy của các nước trong cộng đồng quốc tế."
-        ],
-        "answer": 2
-    },
-    {
-        "question": "Câu 223. Mặt trận Việt Nam độc lập đồng minh (Việt Minh) được thành lập vào thời gian nào?",
-        "options": ["19/5/1940", "19/5/1941", "19/5/1942", "19/5 /1945"],
-        "answer": 1
-    },
-    {
-        "question": "Câu 224. Mặt trận Liên -Việt được thành lập vào thời gian nào?",
-        "options": ["1941", "1945", "1951", "1960"],
-        "answer": 2
-    },
-    {
-        "question": "Câu 225. Mặt trận Tổ Quốc Việt Nam được thành lập vào thời gian nào?",
-        "options": ["1941", "1945", "1951", "1955,1976"],
-        "answer": 3
-    },
-    {
-        "question": "Câu 226. Chọn cụm từ điền vào chỗ trống [……] để hoàn chỉnh câu thơ của Hồ Chí Minh: “Rằng đây bốn bể một nhà [………] đều là anh em”",
-        "options": [
-            "Lao động thế giới",
-            "Bốn phương vô sản",
-            "Đông tây nam bắc",
-            "Vàng đen trắng đỏ"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 227. Trong kháng chiến Chống Mỹ, Hồ Chí Minh đã thành công trong việc xây dựng loại mặt trận nào?",
-        "options": [
-            "Mặt trận đại đoàn kết dân tộc",
-            "Mặt trận đoàn kết ba nước Đông Dương",
-            "Mặt trận nhân dân tiến bộ thế giới đoàn kết với Việt Nam",
-            "Cả 3 đáp án trên đều đúng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 228. Chọn phương án trả lời đúng theo tư tưởng Hồ Chí Minh về nguyên tắc ngoại giao:",
-        "options": [
-            "Phải cứng rắn về nguyên tắc",
-            "Vừa cứng rắn về nguyên tắc, vừa mềm dẻo về sách lược",
-            "Phải mềm dẻo về sách lược",
-            "\"Dĩ bất biến, ứng vạn biến”"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 229. Luận điểm “Đoàn kết, đoàn kết, đại đoàn kết; Thành công, thành công, đại thành công” của Hồ Chí Minh được trích từ tác phẩm:",
-        "options": [
-            "Bài nói chuyện tại lớp bồi dưỡng cán bộ về công tác mặt trận",
-            "Bài nói chuyện tại Hội nghị mở rộng Ủy ban Mặt trận Tổ quốc Việt Nam",
-            "Bài nói chuyện tại Đại hội đại biểu Mặt trận Tổ Quốc Việt Nam lần thứ II",
-            "Tuyên ngôn độc lập"
+            "Kho lưu trữ Docker image",
+            "Hypervisor",
+            "Database server",
+            "VPN gateway"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 230. Luận điểm ”Lao động tất cả các nước đoàn kết lại” là của ai?",
-        "options": ["C Mác", "Ăng ghen", "Lênin", "Hồ Chí Minh"],
-        "answer": 2
-    },
-    {
-        "question": "Câu 231. Tư tưởng đạo đức của Hồ Chí Minh bắt nguồn từ:",
+        "question": "Câu 61: Một lợi ích của container là:",
         "options": [
-            "Truyền thống đạo đức của dân tộc Việt Nam",
-            "Kế thừa tư tưởng đạo đức phương đông và tinh hoa văn hóa nhân loại",
-            "Tư tưởng đạo đức và những tấm gương đạo đức của Mác, Ănghen, Lênin",
-            "Tất cả các phương án đều đúng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 232. Luận điểm nào sau đây sai? Theo Hồ Chí Minh, học để làm gì?",
-        "options": ["Làm cán bộ", "Làm người", "Làm lãnh đạo", "Làm việc"],
-        "answer": 2
-    },
-    {
-        "question": "Câu 233. Phẩm chất đạo đức cơ bản của con người Việt Nam trong thời đại mới theo tư tưởng Hồ Chí Minh là:",
-        "options": [
-            "Trung với nước, hiếu với dân. Yêu thương con người",
-            "Cần, kiệm, liêm, chính, chí công vô tư",
-            "Có tinh thần quốc tế trong sáng",
-            "Cả 3 đáp án trên đều đúng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 234. Hãy lựa chọn câu trả lời đúng nhất theo tư tưởng Hồ Chí Minh:",
-        "options": [
-            "Vì lợi ích mười năm trồng người, vì lợi ích trăm năm trồng cây",
-            "Vì lợi ích mười năm trồng cây, vì lợi ích trăm năm trồng người",
-            "Vì lợi ích mười năm, trồng cây; vì lợi ích trăm năm, trồng người.",
-            "Vì lợi ích mười năm thì phải trồng cây; vì lợi ích trăm năm thì phải trồng người."
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 235. Con người theo quan niệm của Hồ Chí Minh là:",
-        "options": [
-            "Vốn quý nhất, nhân tố quan trọng của cách mạng",
-            "Vốn quý nhất, nhân tố quyết định thành công của cách mạng",
-            "Vốn quý của cách mạng",
-            "Động lực của cách mạng"
+            "Chỉ chạy trên Linux",
+            "Portability cao",
+            "Không dùng mạng",
+            "Không dùng lưu trữ riêng (storage)"
         ],
         "answer": 1
     },
     {
-        "question": "Câu 236. Theo Hồ Chí Minh: “[….] là gốc của người cách mạng”.",
+        "question": "Câu 62: VM thường tiêu tốn tài nguyên hơn container vì:",
         "options": [
-            "Tài năng",
-            "Bản lĩnh chính trị",
-            "Đạo đức",
-            "Phẩm chất chính trị"
+            "Không có kernel",
+            "Dung lượng nặng",
+            "Chạy OS riêng",
+            "Công nghệ cũ hơn"
         ],
         "answer": 2
     },
     {
-        "question": "Câu 237. Hồ Chí Minh đề cập đến đạo đức trong những quan hệ nào sau đây?",
+        "question": "Câu 63: Kubernetes Node là:",
         "options": [
-            "Đối với mình",
-            "Đối với người",
-            "Đối với việc",
-            "Cả 3 đáp án trên đều đúng"
+            "Một switch mạng",
+            "Một loại database",
+            "Một VPN",
+            "Máy chạy workload container"
         ],
         "answer": 3
     },
     {
-        "question": "Câu 238. Tác phẩm đầu tiên của Hồ Chí Minh đề cập đến đạo đức cách mạng là:",
+        "question": "Câu 64: Cluster trong Kubernetes là:",
         "options": [
-            "Tuyên ngôn độc lập",
-            "Đường Cách mệnh",
-            "Điều lệ vắn tắt",
-            "Bản án chế độ thực dân Pháp"
+            "Một container duy nhất",
+            "Tập hợp nhiều node",
+            "Một database",
+            "Một router"
         ],
         "answer": 1
     },
     {
-        "question": "Câu 239. Theo tư tưởng Hồ Chí Minh, để phát huy động lực con người, cần phải:",
+        "question": "Câu 65: AWS ECS dùng để:",
         "options": [
-            "Phát huy sức mạnh của cả cộng đồng dân tộc và sức mạnh của cá nhân người lao động",
-            "Phát huy sức mạnh đoàn kết của cả cộng đồng dân tộc",
-            "Phát huy sức mạnh của cá nhân con người",
-            "Kêu gọi toàn dân"
+            "Quản lý container",
+            "Tạo DNS",
+            "Tạo VM desktop",
+            "Quản lý BIOS"
         ],
         "answer": 0
     },
     {
-        "question": "Câu 240. Chọn cụm từ điền vào chỗ trống [……] đúng với tư tưởng Hồ Chí Minh: “Người cách mạng phải có […….], không có [……] thì dù tài giỏi mấy cũng không lãnh đạo được nhân dân”",
+        "question": "Câu 66: Azure DevOps hỗ trợ:",
         "options": [
-            "Tài năng và đạo đức",
-            "Đạo đức cách mạng",
-            "Bản lĩnh Chính trị",
-            "Uy tín"
-        ],
-        "answer": 1
-    },
-    {
-        "question": "Câu 241. Chọn cụm từ điền vào chỗ trống [……] đúng với tư tưởng Hồ Chí Minh:“Văn hóa [……] cho quốc dân đi”",
-        "options": ["Dẫn đường", "Mở đường", "Chỉ đường", "Soi đường"],
-        "answer": 3
-    },
-    {
-        "question": "Câu 242. Theo Hồ Chí Minh, ở đời và làm người thì phải làm gì?",
-        "options": [
-            "Yêu nước",
-            "Thương nhân loại bị áp bức",
-            "Thương dân",
-            "Cả 3 đáp án trên đúng"
-        ],
-        "answer": 3
-    },
-    {
-        "question": "Câu 243. Trong Di chúc, Hồ Chí Minh xác định công việc đầu tiên là công việc gì",
-        "options": [
-            "Tiếp tục phát triển kinh tế",
-            "Ra sức phát triển văn hóa",
-            "Công việc đối với con người",
-            "Phát triển khoa học – kỹ thuật"
+            "Quản lý máy ảo",
+            "Quản lý source code",
+            "CI/CD và quản lý source code",
+            "Quản lý tất cả các dịch vụ IaaS"
         ],
         "answer": 2
     },
     {
-        "question": "Câu 244. Theo tư tưởng Hồ Chí Minh, mọi việc thành công hay thất bại là do:",
+        "question": "Câu 67: Git thường dùng để:",
         "options": [
-            "Đường lối lãnh đạo",
-            "Cán bộ tốt hay kém",
-            "Cán bộ lãnh đạo",
-            "Phương pháp lãnh đạo"
+            "Quản lý phiên bản source code",
+            "Tăng tốc Internet",
+            "Tạo VPN",
+            "Chạy database"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 68: GitHub Actions hỗ trợ:",
+        "options": [
+            "Hypervisor",
+            "Object Storage",
+            "CI/CD automation",
+            "GPU rendering"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 69: Terraform là công cụ:",
+        "options": [
+            "Infrastructure as Code",
+            "Chỉnh sửa ảnh",
+            "Chạy email server",
+            "Quản lý máy in"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 70: Infrastructure as Code giúp:",
+        "options": [
+            "Tăng FPS game",
+            "Tự động hóa xây dựng hạ tầng ứng dụng",
+            "Xóa log",
+            "Tăng độ sáng màn hình"
         ],
         "answer": 1
     },
     {
-        "question": "Câu 245. Theo tư tưởng Hồ Chí Minh, muốn thức tỉnh một dân tộc, trước hết phải thức tỉnh bộ phận dân cư nào?",
+        "question": "Câu 71: Cloud migration là:",
         "options": [
-            "Trí thức",
-            "Thanh niên",
-            "Thiếu niên, nhi đồng",
-            "Công nhân và nông dân"
+            "Chuyển hệ thống lên cloud",
+            "Công cụ đưa dữ liệu từ máy này qua máy khác",
+            "Chạy game online",
+            "Công cụ kiểm tra tính sẵn sàng trước khi đưa lên Cloud"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 72: Rehosting còn gọi là:",
+        "options": [
+            "Network DNS",
+            "Chiến lược sao lưu (Backup strategy)",
+            "Khai phá dữ liệu (Data mining)",
+            "Lift and Shift"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 73: Tái cấu trúc ứng dụng (Refactoring application) nghĩa là:",
+        "options": [
+            "Thay đổi kiến trúc ứng dụng",
+            "Tắt server, di chuyển lên môi trường cloud",
+            "Thay đổi hệ quản trị cơ sở dữ liệu",
+            "Tăng RAM vật lý"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 74: Một lợi ích của cloud là:",
+        "options": [
+            "Luôn có Internet",
+            "Không cần bảo mật",
+            "Sự đàn hồi (Elasticity)",
+            "Tự động backup"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 75: Elasticity là:",
+        "options": [
+            "Tự động xóa máy chủ không sử dụng",
+            "Tự động co giãn tài nguyên",
+            "Tắt máy chủ có ít truy cập nhất",
+            "Dự phòng máy chủ cho trường hợp vượt quá truy cập"
         ],
         "answer": 1
+    },
+    {
+        "question": "Câu 76: Object Storage phù hợp với:",
+        "options": [
+            "Lưu file dung lượng lớn",
+            "Phù hợp sử dụng với VM",
+            "Phù hợp với mọi loại dữ liệu",
+            "Lưu trữ ảnh"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 77: Block Storage thường dùng cho:",
+        "options": [
+            "Lưu trữ ảnh",
+            "Shared file system",
+            "Lưu file dung lượng lớn",
+            "Disk của VM"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 78: File Storage phù hợp với:",
+        "options": [
+            "Disk của VM",
+            "Shared file system",
+            "Lưu file dung lượng lớn",
+            "Lưu trữ giao dịch tài chính"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 79: AWS EBS là:",
+        "options": [
+            "Block Storage",
+            "DNS service",
+            "Email service",
+            "Container runtime"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 80: Azure Files là:",
+        "options": [
+            "File Storage Service",
+            "Hypervisor",
+            "Firewall",
+            "Monitoring tool"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 81: Một lợi ích của CDN là:",
+        "options": [
+            "Giảm CPU core",
+            "Tăng RAM",
+            "Tăng điện năng",
+            "Giảm latency"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 82: CloudFront là dịch vụ của:",
+        "options": [
+            "AWS",
+            "Azure",
+            "Google",
+            "IBM"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 83: Azure CDN giúp:",
+        "options": [
+            "Tạo database",
+            "Tạo máy ảo",
+            "Phân phối nội dung nhanh hơn",
+            "Quản lý BIOS"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 84: Google Cloud CDN là:",
+        "options": [
+            "Hypervisor",
+            "Dịch vụ VPN",
+            "Dịch vụ CDN",
+            "IDE lập trình"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 85: Một ưu điểm của managed service là:",
+        "options": [
+            "Giảm công quản trị",
+            "Không cần đầu tư nhân sự nhiều",
+            "Không cần bảo mật",
+            "Không cần backup thường xuyên"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 86: Managed Kubernetes nghĩa là:",
+        "options": [
+            "Kubernetes không dùng container",
+            "Kubernetes chạy offline",
+            "Kubernetes không dùng node",
+            "Kubernetes do cloud provider quản lý"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 87: Docker Compose dùng để:",
+        "options": [
+            "Quản lý switch",
+            "Tạo BIOS",
+            "Chạy nhiều container cùng lúc",
+            "Chỉnh sửa video"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 88: Namespace trong Kubernetes giúp:",
+        "options": [
+            "Phân tách tài nguyên",
+            "Tăng tốc GPU",
+            "Tạo DNS",
+            "Triển khai (Deploy) lên một tên miền cụ thể"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 89: Ingress trong Kubernetes dùng để:",
+        "options": [
+            "Quản lý cập nhật của Container",
+            "Điều hướng dữ liệu giữa các dịch vụ",
+            "Tái sử dụng các Container đang chạy",
+            "Điều hướng lưu lượng (traffic) vào cluster"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 90: Service trong Kubernetes giúp:",
+        "options": [
+            "Mở (Expose) ứng dụng cho phép truy cập",
+            "Kiểm tra tổng số tài nguyên đang sử dụng",
+            "Theo dõi số tiền đang được sử dụng",
+            "Không có khái niệm này ở Kubernetes"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 91: Blue-Green Deployment giúp:",
+        "options": [
+            "Cân bằng tải",
+            "Đánh dấu VM nào đang được deploy",
+            "Tắt mạng cho các máy chủ đang được deploy",
+            "Giảm downtime khi triển khai (deploy)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 92: Canary Deployment là:",
+        "options": [
+            "Deploy thử nghiệm cho một phần người dùng",
+            "Tắt toàn bộ hệ thống đã lỗi thời",
+            "Phân tải truy cập theo vùng địa lý",
+            "Tự động cài đặt bản vá cho VM"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 93: Zero Trust Security yêu cầu:",
+        "options": [
+            "Phải sử dụng HTTPS",
+            "Không cần mật khẩu",
+            "Xác thực liên tục",
+            "Phải sử dụng VPN"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 94: MFA là:",
+        "options": [
+            "Xác thực đa yếu tố",
+            "Hypervisor",
+            "CDN",
+            "DNS"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 95: Mã hóa (Encryption) giúp:",
+        "options": [
+            "Mã hóa dữ liệu đầu cuối",
+            "Không để lộ mật khẩu",
+            "Dữ liệu không thể bị nghe lén",
+            "Bảo vệ dữ liệu bằng cách mã hóa"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 96: AES là thuật toán:",
+        "options": [
+            "Routing",
+            "Mã hóa",
+            "Monitoring",
+            "Logging"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 97: Phishing là hình thức:",
+        "options": [
+            "Lừa đảo đánh cắp thông tin",
+            "Backup dữ liệu",
+            "Monitoring hệ thống",
+            "Quản lý DNS"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 98: DDoS attack nhằm mục đích:",
+        "options": [
+            "Làm quá tải hệ thống",
+            "Tăng bảo mật",
+            "Tạo VM",
+            "Tăng bandwidth"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 99: WAF dùng để:",
+        "options": [
+            "Bảo vệ ứng dụng web",
+            "Tạo container",
+            "Chạy database",
+            "Tăng tốc CPU"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 100: Penetration Testing là:",
+        "options": [
+            "Tạo VPN",
+            "Backup dữ liệu",
+            "Kiểm thử bảo mật",
+            "Chạy game online"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 101: Một công ty khởi nghiệp (startup) đang phát triển ứng dụng bán hàng online với số lượng nhân sự IT còn ít và ngân sách hạn chế. Công ty muốn triển khai hệ thống nhanh, không cần đầu tư server vật lý ban đầu và có thể mở rộng khi lượng người dùng tăng mạnh trong tương lai. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "On-Premise Infrastructure",
+            "Platform as a Service (PaaS)",
+            "Mainframe Computing",
+            "Desktop Virtualization"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 102: Một doanh nghiệp tài chính yêu cầu dữ liệu khách hàng phải được lưu trữ nội bộ để đáp ứng quy định bảo mật và kiểm toán. Tuy nhiên doanh nghiệp vẫn muốn tận dụng khả năng mở rộng linh hoạt của cloud computing khi cần xử lý tải lớn. Mô hình nào phù hợp nhất?",
+        "options": [
+            "Public Cloud",
+            "Hybrid Cloud",
+            "Community Cloud",
+            "Shared Hosting"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 103: Một nhóm phát triển phần mềm thường xuyên gặp tình trạng “chạy được trên máy lập trình viên nhưng lỗi trên server production”. Giải pháp nào phù hợp nhất để đảm bảo môi trường chạy đồng nhất giữa các môi trường?",
+        "options": [
+            "Virtual Machine truyền thống",
+            "Docker Container",
+            "FTP Server",
+            "Local Database"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 104: Một website thương mại điện tử thường có lượng truy cập tăng đột biến vào các dịp khuyến mãi lớn. Doanh nghiệp muốn hệ thống tự động mở rộng thêm tài nguyên và tự giảm khi hết cao điểm để tiết kiệm chi phí. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Static Hosting",
+            "Bare-metal Server cố định",
+            "Auto Scaling",
+            "Manual Deployment"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 105: Một công ty phát triển game mobile muốn giảm độ trễ khi người dùng ở nhiều quốc gia tải hình ảnh và video trong game. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "CDN (Content Delivery Network)",
+            "Single Local Server",
+            "FTP Storage",
+            "VPN Gateway"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 106: Một doanh nghiệp đang sử dụng nhiều máy chủ vật lý nhưng phần lớn tài nguyên CPU và RAM thường xuyên không được sử dụng hết. Công nghệ nào phù hợp nhất để tối ưu việc sử dụng tài nguyên?",
+        "options": [
+            "RAID 0",
+            "Blockchain",
+            "OCR",
+            "Virtualization"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 107: Một nhóm DevOps muốn triển khai hàng chục microservices dưới dạng container và cần một nền tảng có khả năng tự động restart container khi lỗi xảy ra. Công cụ nào phù hợp nhất?",
+        "options": [
+            "Kubernetes",
+            "Microsoft Excel",
+            "FileZilla FTP",
+            "BIOS Utility"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 108: Một công ty muốn giảm thời gian downtime khi triển khai phiên bản mới của ứng dụng lên production. Phương pháp nào phù hợp nhất?",
+        "options": [
+            "Manual Restart Server",
+            "Blue-Green Deployment",
+            "Shutdown toàn bộ hệ thống",
+            "Deploy trực tiếp trên production server duy nhất"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 109: Một hệ thống xử lý dữ liệu AI cần GPU mạnh trong vài giờ mỗi ngày nhưng không muốn đầu tư",
+        "options": [
+            "Thuê GPU Cloud Computing",
+            "Mua toàn bộ data center riêng",
+            "Sử dụng máy tính văn phòng",
+            "Chạy trên Raspberry Pi"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 110: Một doanh nghiệp muốn nhân viên truy cập hệ thống nội bộ an toàn từ xa qua Internet. Giải pháp phù hợp nhất là gì?",
+        "options": [
+            "HTTP không mã hóa",
+            "Public FTP",
+            "Telnet",
+            "VPN (Virtual Private Network)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 111: Một công ty cần triển khai ứng dụng web toàn cầu với yêu cầu hệ thống vẫn hoạt động nếu một khu vực (region) cloud gặp sự cố. Kiến trúc nào phù hợp:",
+        "options": [
+            "Local PC Hosting",
+            "Single Server Architecture",
+            "Multi-region Deployment",
+            "Offline Processing"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 112: Một startup muốn đội phát triển tập trung vào code ứng dụng thay vì quản lý hệ điều hành, patch server và middleware. Mô hình cloud nào phù hợp nhất?",
+        "options": [
+            "Traditional Hosting",
+            "Bare-metal Infrastructure",
+            "Colocation",
+            "Platform as a Service (PaaS)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 113: Một công ty media lưu trữ hàng triệu video dung lượng lớn và cần khả năng mở rộng linh hoạt theo thời gian. Loại storage nào phù hợp nhất?",
+        "options": [
+            "DVD Archive",
+            "Local USB Storage",
+            "Object Storage",
+            "BIOS Cache"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 114: Một doanh nghiệp muốn giảm nguy cơ mất dữ liệu khi server bị lỗi phần cứng hoặc ransomware attack. Giải pháp phù hợp nhất là gì?",
+        "options": [
+            "Không backup để tiết kiệm chi phí",
+            "Chỉ lưu dữ liệu trên máy local",
+            "Tắt Internet hoàn toàn",
+            "Cloud Backup định kỳ"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 115: Một công ty cần hệ thống có thể triển khai tính năng mới nhiều lần mỗi ngày với quy trình tự động kiểm thử và triển khai. Phương pháp nào phù hợp nhất?",
+        "options": [
+            "CI/CD Pipeline",
+            "Manual Deployment",
+            "FTP Upload thủ công",
+            "Gửi source code qua email"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 116: Một doanh nghiệp thương mại điện tử muốn phân tích log truy cập để phát hiện tấn công bất thường theo thời gian thực. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Offline Spreadsheet",
+            "Desktop Wallpaper Manager",
+            "Monitoring & Logging System",
+            "Bluetooth File Sharing"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 117: Một công ty fintech yêu cầu tất cả tài khoản quản trị phải xác thực bằng nhiều lớp bảo mật thay vì chỉ mật khẩu. Giải pháp phù hợp nhất?",
+        "options": [
+            "Guest Account",
+            "Shared Password",
+            "Anonymous Login",
+            "Multi-Factor Authentication (MFA)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 118: Một nhóm phát triển muốn triển khai hạ tầng cloud bằng code để có thể version control và tái sử dụng cấu hình. Công nghệ nào phù hợp nhất?",
+        "options": [
+            "Infrastructure as Code (IaC)",
+            "Manual Configuration",
+            "Paint Application",
+            "BIOS Editor"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 119: Một ứng dụng có nhiều thành phần nhỏ như authentication, payment, notification và inventory hoạt động độc lập. Kiến trúc nào phù hợp nhất?",
+        "options": [
+            "Monolithic Architecture duy nhất",
+            "Microservices Architecture",
+            "Standalone Desktop App",
+            "Peer-to-peer Gaming"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 120: Một doanh nghiệp muốn tiết kiệm chi phí bằng cách chỉ trả tiền cho tài nguyên thực tế sử dụng thay vì mua server cố định. Đặc điểm nào của cloud computing đáp ứng tốt nhất yêu cầu này?",
+        "options": [
+            "Pay-as-you-go",
+            "Offline Deployment",
+            "Static Hardware Procurement",
+            "Fixed Capacity Infrastructure"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 121: Một doanh nghiệp triển khai ứng dụng web trên cloud nhưng gặp tình trạng người dùng không truy cập được khi một server bị lỗi. Giải pháp nào phù hợp nhất để tăng tính sẵn sàng (high availability)?",
+        "options": [
+            "Chạy ứng dụng offline",
+            "Chỉ dùng một server cấu hình mạnh",
+            "Tắt firewall hệ thống",
+            "Load Balancer kết hợp nhiều server"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 122: Một công ty cần lưu trữ dữ liệu khách hàng quan trọng và muốn dữ liệu được mã hóa cả khi lưu trữ và khi truyền tải qua Internet. Giải pháp phù hợp nhất là gì?",
+        "options": [
+            "Chỉ dùng mật khẩu mạnh",
+            "Encryption at Rest và Encryption in Transit",
+            "Tắt Internet khi không sử dụng",
+            "Nén file ZIP thông thường"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 123: Một startup phát triển ứng dụng mobile có lượng người dùng thay đổi liên tục theo thời gian trong ngày. Họ muốn tối ưu chi phí hạ tầng mà vẫn đảm bảo hiệu năng. Giải pháp phù hợp nhất là gì?",
+        "options": [
+            "Auto Scaling trên cloud",
+            "Mua server vật lý cố định",
+            "Sử dụng máy tính cá nhân làm server",
+            "Chạy ứng dụng offline"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 124: Một doanh nghiệp muốn triển khai chatbot AI nhưng không muốn tự xây dựng hạ tầng machine learning từ đầu. Giải pháp phù hợp nhất?",
+        "options": [
+            "FTP Server",
+            "Desktop Application",
+            "AI Service trên cloud",
+            "Local Spreadsheet"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 125: Một công ty thương mại điện tử muốn giảm tải cho database bằng cách lưu dữ liệu truy cập thường xuyên trong bộ nhớ tốc độ cao. Công nghệ nào phù hợp nhất?",
+        "options": [
+            "Redis Cache",
+            "RAID Controller",
+            "VPN Gateway",
+            "BIOS Optimization"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 126: Một doanh nghiệp cần triển khai nhanh một website giới thiệu công ty với lượng truy cập không quá lớn, chủ yếu là nội dung tĩnh như hình ảnh và thông tin sản phẩm. Loại dịch vụ cloud nào phù hợp nhất?",
+        "options": [
+            "GPU Computing Cluster",
+            "Object Storage Static Website Hosting",
+            "High Performance Computing (HPC)",
+            "Dedicated Bare-metal Server"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 127: Một công ty AI cần huấn luyện mô hình machine learning với khối lượng tính toán lớn trong thời gian ngắn. Loại dịch vụ nào phù hợp nhất?",
+        "options": [
+            "GPU Compute Instance",
+            "Object Storage",
+            "CDN Service",
+            "DNS Hosting"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 128: Một doanh nghiệp cần lưu trữ hàng chục TB dữ liệu backup nhưng ít truy cập và ưu tiên chi phí thấp. Loại storage nào phù hợp nhất?",
+        "options": [
+            "Local SSD Storage",
+            "NVMe Block Storage",
+            "In-memory Database",
+            "Archive Storage"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 129: Một hệ thống ERP cần database có độ ổn định cao, hỗ trợ backup tự động và khả năng scaling dễ dàng. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Managed Relational Database Service",
+            "FTP Server",
+            "Static File Hosting",
+            "Local Desktop Database"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 130: Một startup phát triển ứng dụng mobile cần backend API nhưng không muốn quản lý server. Loại dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Tape Storage System",
+            "Bare-metal Server",
+            "Dedicated Firewall Appliance",
+            "Serverless Functions"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 131: Một công ty streaming video muốn giảm độ trễ khi người dùng xem nội dung ở nhiều quốc gia khác nhau. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Single-region VM",
+            "Local File Server",
+            "CDN (Content Delivery Network)",
+            "FTP Hosting"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 132: Một doanh nghiệp cần kết nối riêng tư và an toàn giữa hệ thống on-premise và cloud provider. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Site-to-Site VPN",
+            "Public HTTP Access",
+            "FTP Sharing",
+            "Shared Wi-Fi Network"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 133: Một công ty cần chạy hàng trăm container microservices với khả năng tự động scale và orchestration. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Personal Desktop PC",
+            "Shared Hosting",
+            "Static Website Hosting",
+            "Managed Kubernetes Service"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 134: Một doanh nghiệp muốn lưu session đăng nhập người dùng với tốc độ truy cập rất nhanh và thời gian phản hồi thấp. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "In-memory Cache Service",
+            "Archive Storage",
+            "Object Storage",
+            "Tape Backup System"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 135: Một công ty cần hệ thống lưu log tập trung từ nhiều application server để phục vụ monitoring và troubleshooting. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Static DNS Hosting",
+            "GPU Rendering Service",
+            "Centralized Logging Service",
+            "Bluetooth File Sharing"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 136: Một ứng dụng IoT cần thu thập dữ liệu liên tục từ hàng triệu thiết bị cảm biến. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Message Queue / IoT Hub Service",
+            "FTP Hosting",
+            "Desktop Virtualization",
+            "Shared Folder Service"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 137: Một doanh nghiệp muốn triển khai ứng dụng web nhưng cần tự động phân phối traffic đến nhiều server backend để tránh quá tải. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Local Proxy Software",
+            "Archive Storage",
+            "Object Lock Service",
+            "Load Balancer"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 138: Một công ty phát triển ứng dụng toàn cầu cần phân giải tên miền ổn định với độ sẵn sàng cao. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Block Storage",
+            "GPU Cluster",
+            "Managed DNS Service",
+            "CI/CD Pipeline"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 139: Một doanh nghiệp muốn bảo vệ ứng dụng web khỏi SQL Injection và các tấn công HTTP phổ biến. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Web Application Firewall (WAF)",
+            "Object Storage",
+            "CDN Logging Only",
+            "Shared FTP Hosting"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 140: Một startup cần môi trường phát triển nhanh cho đội lập trình, không cần quản lý OS hay middleware. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Bare-metal Infrastructure",
+            "Platform as a Service (PaaS)",
+            "Dedicated Switch Appliance",
+            "Tape Storage Library"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 141: Một công ty tài chính cần hệ thống có khả năng xử lý transaction database với độ ổn định và consistency cao. Loại database nào phù hợp nhất?",
+        "options": [
+            "Relational Database Service",
+            "Object Storage",
+            "CDN Cache",
+            "Media Streaming Service"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 142: Một doanh nghiệp muốn triển khai hệ thống backup tự động giữa nhiều region cloud để phục vụ disaster recovery. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Single VM Snapshot",
+            "Local SSD Only",
+            "Cross-region Backup Replication",
+            "Shared Local Folder"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 143: Một công ty AI muốn lưu trữ tập dữ liệu training dung lượng cực lớn và cần khả năng mở rộng linh hoạt. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Embedded Database",
+            "Object Storage",
+            "BIOS Flash Storage",
+            "Local DVD Archive"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 144: Một doanh nghiệp muốn quản lý bí mật hệ thống như API key, database password và certificate tập trung. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "FTP Storage",
+            "Public Shared Folder",
+            "Secrets Management Service",
+            "CDN Endpoint"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 145: Một công ty cần chạy batch processing vào ban đêm để xử lý dữ liệu lớn nhưng không muốn trả tiền server cả ngày. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Serverless Batch Computing",
+            "Dedicated Physical Server",
+            "Local Gaming PC",
+            "Continuous Desktop Runtime"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 146: Một doanh nghiệp muốn nhân viên đăng nhập một lần để sử dụng nhiều hệ thống nội bộ và cloud service khác nhau. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Shared Password Excel File",
+            "Local User Account riêng lẻ",
+            "FTP Authentication",
+            "Single Sign-On (SSO)"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu 147: Một công ty thương mại điện tử muốn tăng tốc truy vấn dữ liệu sản phẩm phổ biến mà không làm quá tải database chính. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Archive Storage",
+            "Distributed Cache Service",
+            "DNS Service",
+            "VPN Gateway"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 148: Một doanh nghiệp cần hệ thống message bất đồng bộ để giao tiếp giữa các microservices. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "File Compression Tool",
+            "Static Web Hosting",
+            "Message Queue Service",
+            "Remote Desktop Service"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 149: Một hệ thống analytics cần xử lý dữ liệu log theo thời gian thực từ hàng triệu người dùng. Loại dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Stream Processing Service",
+            "FTP Upload Service",
+            "Static File Server",
+            "Local Spreadsheet Processing"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 150: Một doanh nghiệp muốn theo dõi CPU, RAM, network traffic và tự động gửi cảnh báo khi hệ thống bất thường. Dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Object Storage",
+            "Cloud Monitoring Service",
+            "DNS Resolver",
+            "Static CDN Endpoint"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 151: Một trường đại học muốn đưa hệ thống e-learning lên cloud để dễ mở rộng, nhưng vẫn muốn tận dụng data center hiện có để lưu trữ dữ liệu sinh viên nhằm tối ưu chi phí đầu tư. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Docker, On-premise Database, VPN",
+            "VM, On-premise Database, VPN",
+            "IaaS, On-premise Database, Private Network Link"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 152: Một startup phát triển ứng dụng mobile muốn giảm chi phí vận hành server, tự động scale theo số lượng người dùng và không cần quản lý hệ điều hành. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Serverless Functions, Managed Database, CDN",
+            "Bare-metal Server, Local Database, FTP",
+            "Dedicated VM, Local Storage, Manual Backup"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 153: Một công ty thương mại điện tử cần triển khai hệ thống toàn cầu với khả năng chịu tải cao và giảm độ trễ truy cập từ nhiều quốc gia. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Single VM, Local DNS, Shared Storage",
+            "Load Balancer, CDN, Multi-region Deployment",
+            "FTP Server, On-premise Network, Local Cache"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 154: Một doanh nghiệp tài chính yêu cầu hệ thống có độ bảo mật cao, kết nối riêng giữa cloud và data center nội bộ, đồng thời database phải nằm trong hệ thống công ty. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Public Database, Shared VPN, CDN",
+            "Hybrid Cloud, Site-to-Site VPN, On-premise Database",
+            "FTP Access, Local VM, Public Internet"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 155: Một công ty AI cần môi trường xử lý machine learning với GPU mạnh, lưu trữ dữ liệu lớn và khả năng mở rộng linh hoạt khi training model. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "GPU Compute, Object Storage, Auto Scaling",
+            "Shared Hosting, Local HDD, FTP",
+            "Static Website Hosting, VPN, NAS"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 156: Một doanh nghiệp muốn triển khai kiến trúc microservices và cần hệ thống tự động orchestration container, tự restart service khi lỗi xảy ra. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "FTP Server, Shared Folder, Manual Deployment",
+            "Kubernetes, Container Registry, Monitoring Service",
+            "Desktop Virtualization, BIOS Utility, RAID Controller"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 157: Một công ty media streaming muốn tối ưu tốc độ tải video cho người dùng toàn cầu và giảm tải cho server chính. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "CDN, Object Storage, Load Balancer",
+            "Local Server, FTP Hosting, Manual Replication",
+            "Single Database Server, Shared Drive, Proxy Offline"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 158: Một doanh nghiệp muốn triển khai hệ thống backup dữ liệu đa vùng (multi-region) để phục vụ disaster recovery khi một region gặp sự cố. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Desktop Backup Software, FTP Upload, RAID 0",
+            "Local HDD Backup, USB Copy, Shared Folder",
+            "Cross-region Replication, Backup Service, Object Storage"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 159: Một startup SaaS muốn triển khai nhanh sản phẩm đầu tiên với ít nhân sự IT, ưu tiên dịch vụ managed để giảm vận hành hệ thống. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Bare-metal Server, Local MySQL, Manual Deploy",
+            "PaaS, Managed Database, CI/CD Service",
+            "Physical Server Cluster, FTP Transfer, BIOS Config"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 160: Một doanh nghiệp cần hệ thống xác thực tập trung cho nhiều ứng dụng cloud và nội bộ, đồng thời tăng cường bảo mật tài khoản người dùng. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Local User Account, Guest Login, Public Access",
+            "Shared Password Excel File, FTP Login, HTTP Access",
+            "IAM, Single Sign-On (SSO), Multi-Factor Authentication (MFA)"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 161: Một công ty logistics muốn thu thập dữ liệu thời gian thực từ hàng nghìn thiết bị IoT đặt tại nhiều tỉnh thành. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "IoT Hub, Message Queue, Stream Processing",
+            "Shared Folder, FTP Hosting, Local Desktop App",
+            "Static Website Hosting, VPN Client, USB Storage"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 162: Một hệ thống ngân hàng cần triển khai ứng dụng với downtime cực thấp và khả năng chuyển đổi dự phòng tự động khi có lỗi hệ thống. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Single VM, Local Backup, Shared Wi-Fi",
+            "High Availability Cluster, Load Balancer, Multi-zone Deployment",
+            "FTP Replication, Desktop Monitoring, RAID 0"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 163: Một công ty phát triển game online cần giảm thời gian phản hồi API cho người chơi bằng cách lưu dữ liệu truy cập phổ biến trong bộ nhớ tốc độ cao. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Redis Cache, Load Balancer, Auto Scaling",
+            "Tape Storage, Shared Folder, FTP Upload",
+            "DVD Backup, BIOS Utility, Local HDD"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 164: Một doanh nghiệp muốn triển khai hệ thống CI/CD tự động build, test và deploy ứng dụng container lên cloud. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Git Repository, CI/CD Pipeline, Kubernetes",
+            "FTP Upload, Shared Drive, Manual Restart",
+            "Local IDE, BIOS Update, USB Deployment"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 165: Một công ty bảo hiểm muốn phân tích dữ liệu khách hàng số lượng lớn phục vụ AI và báo cáo kinh doanh. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Local SSD, BIOS Cache, Desktop Database",
+            "Shared Folder, Excel Offline, FTP",
+            "Data Lake, Big Data Analytics, Object Storage"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 166: Một doanh nghiệp muốn triển khai ứng dụng web nhưng cần bảo vệ khỏi SQL Injection và DDoS attack. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Public Database, HTTP Access, Guest Account",
+            "FTP Server, Shared Hosting, Local Switch",
+            "Web Application Firewall (WAF), CDN, Load Balancer"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 167: Một startup fintech muốn giảm chi phí hạ tầng bằng cách chỉ trả tiền khi API được gọi thay vì duy trì server chạy liên tục. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Serverless Functions, API Gateway, Managed Database",
+            "Dedicated Physical Server, Local Firewall, FTP",
+            "Bare-metal Cluster, Shared Storage, Manual Scaling"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 168: Một doanh nghiệp cần hệ thống lưu trữ file dùng chung cho nhiều VM trên cloud với khả năng mount đồng thời. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Local USB Storage, FTP Server, Desktop App",
+            "File Storage Service, Virtual Machine, Private Network",
+            "Tape Backup, BIOS Utility, Shared Printer"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 169: Một công ty thương mại điện tử muốn triển khai hệ thống recommendation AI nhưng dữ liệu khách hàng vẫn phải lưu tại data center nội bộ. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Hybrid Cloud, AI Service, Private Network Link",
+            "Shared Hosting, FTP Transfer, Local Cache",
+            "Public Database, Guest Access, HTTP Only"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 170: Một doanh nghiệp cần hệ thống monitoring tập trung cho toàn bộ VM, container và network trên cloud. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "BIOS Utility, RAID Controller, Desktop Wallpaper",
+            "FTP Service, Shared Folder, Local Printer",
+            "Monitoring Service, Logging Service, Alerting System"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 171: Một công ty giáo dục muốn triển khai phòng lab thực hành cloud cho sinh viên mà không cần đầu tư nhiều máy cấu hình cao. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Tape Storage, FTP Hosting, Shared HDD",
+            "Virtual Desktop Infrastructure (VDI), Cloud VM, VPN",
+            "Desktop BIOS Utility, USB Boot, RAID 0"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 172: Một doanh nghiệp bán lẻ muốn đồng bộ dữ liệu tồn kho giữa nhiều chi nhánh theo thời gian thực. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Managed Database, Message Queue, Private Network",
+            "Shared Excel File, FTP Upload, USB Backup",
+            "DVD Archive, Desktop App, Public Wi-Fi"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 173: Một công ty startup cần triển khai website marketing đơn giản với chi phí thấp và không cần backend phức tạp. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Static Website Hosting, CDN, Object Storage",
+            "Kubernetes Cluster, GPU VM, VPN Gateway",
+            "Bare-metal Server, SAN Storage, Tape Backup"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 174: Một doanh nghiệp muốn quản lý secrets như API key và database password tập trung để tăng bảo mật hệ thống. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Shared Text File, FTP Access, Guest Account",
+            "Secrets Management Service, IAM, Encryption",
+            "Local Excel File, Public Folder, HTTP Login"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 175: Một công ty vận tải cần phân tích dữ liệu GPS từ xe tải theo thời gian thực để tối ưu tuyến đường. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Stream Processing, Big Data Analytics, IoT Hub",
+            "Local Spreadsheet, Shared Drive, FTP Upload",
+            "BIOS Utility, RAID 1, Desktop VM"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 176: Một doanh nghiệp muốn giảm downtime khi deploy phiên bản mới của hệ thống production. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "FTP Upload, Manual Restart, Shared Hosting",
+            "Blue-Green Deployment, Load Balancer, Auto Scaling",
+            "BIOS Update, USB Boot, Local Desktop"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 177: Một startup phát triển ứng dụng toàn cầu cần hệ thống DNS có độ sẵn sàng cao và khả năng routing thông minh theo khu vực địa lý. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Desktop Database, USB Storage, Public Proxy",
+            "Local DNS Server, Shared Wi-Fi, FTP Hosting",
+            "Managed DNS Service, CDN, Multi-region Deployment"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 178: Một công ty game online muốn triển khai backend microservices nhưng cần tách biệt môi trường development, staging và production. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Kubernetes Namespace, CI/CD Pipeline, Container Registry",
+            "Shared Folder, FTP Server, Manual Deploy",
+            "Local VM, Desktop App, Public Wi-Fi"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 179: Một doanh nghiệp healthcare muốn lưu dữ liệu bệnh án trên cloud nhưng phải đảm bảo dữ liệu được mã hóa và kiểm soát truy cập chặt chẽ. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Local USB Storage, Guest Account, Public Wi-Fi",
+            "Public FTP, Shared Folder, HTTP Access",
+            "Encrypted Storage, IAM, Private Network"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu 180: Một công ty truyền thông cần hệ thống xử lý và phân phối livestream cho lượng lớn người xem cùng lúc. Tổ hợp dịch vụ nào phù hợp nhất?",
+        "options": [
+            "Shared Hosting, FTP Upload, Local HDD",
+            "CDN, Load Balancer, Auto Scaling Compute",
+            "Desktop PC, USB Streaming, Public Proxy dụng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 181: Một startup AI đang sử dụng GPU cloud để huấn luyện mô hình (training model). Hệ thống chỉ hoạt động mạnh vào ban ngày, nhưng đội vận hành phát hiện chi phí cloud tăng liên tục dù không tăng workload. Công ty muốn tối ưu chi phí nhưng vẫn đảm bảo khi cần có thể mở rộng nhanh ngay lập tức. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Reserved GPU Instance kết hợp tự động tắt ngoài giờ (schedule shutdown)",
+            "On-demand GPU Instance kết hợp tự động tắt ngoài giờ (automation shutdown)",
+            "Spot GPU Instance chạy liên tục 24/7"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 182: Một doanh nghiệp triển khai Kubernetes production (K8S) trên cloud. Khi triển khai phiên bản mới (deploy), một số pod bị lỗi nhưng hệ thống vẫn hoạt động bình thường do traffic được chuyển sang pod khác. Tuy nhiên đội vận hành muốn phát hiện lỗi sớm trước khi ảnh hưởng người dùng cuối. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Health Check kết hợp cảnh báo giám sát hệ thống (alerting monitoring)",
+            "Health Check kết hợp khởi động lại node định kỳ",
+            "Health Check kết hợp tăng cố định số lượng pod"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 183: Một công ty thương mại điện tử muốn triển khai hệ thống cơ sở dữ liệu (database) trên cloud. Yêu cầu quan trọng nhất là dữ liệu giao dịch không được mất khi một VM hoặc một vùng khả dụng (availability zone) gặp sự cố. Đồng thời hệ thống phải giảm tối đa downtime. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Managed Relational Database Single-AZ kết hợp snapshot tự động",
+            "Managed Relational Database Multi-AZ kết hợp chuyển đổi dự phòng tự động (automatic failover)*",
+            "Tự quản lý database replication trên nhiều VM"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 184: Một doanh nghiệp đang chuyển hệ thống từ hạ tầng nội bộ (on-premise) lên cloud. Ứng dụng hiện tại sử dụng kiến trúc nguyên khối (monolithic architecture), phụ thuộc nhiều vào hệ điều hành và cần migrate trong thời gian ngắn nhất để giảm downtime dự án. Chiến lược nào phù hợp nhất?",
+        "options": [
+            "Rehosting ứng dụng nguyên trạng lên cloud VM",
+            "Refactor từng module trước khi migrate toàn bộ",
+            "Replatform ứng dụng sang container trước khi migrate"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 185: Một công ty SaaS có khách hàng ở nhiều quốc gia. Họ nhận thấy thời gian phản hồi API (API response) tại châu Âu chậm hơn nhiều so với châu Á vì backend đặt tại Singapore. Công ty chưa muốn nhân bản toàn bộ backend (duplicate backend) do chi phí cao. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "CDN kết hợp bộ nhớ đệm API (API caching) cho dữ liệu phù hợp cache",
+            "Multi-region backend active-active cho toàn bộ service",
+            "Global Load Balancer với một backend region duy nhất"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 186: Một doanh nghiệp muốn triển khai quy trình CI/CD cho hệ thống. Yêu cầu quan trọng nhất là nếu khi triển khai gặp lỗi phải khôi phục bản cũ (rollback) nhanh, giảm tối đa downtime và không ảnh hưởng toàn bộ người dùng cùng lúc. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Rolling Deployment với tự động rollback",
+            "Canary Deployment với giám sát từng phần lưu lượng truy cập",
+            "Blue-Green Deployment không kiểm tra health check"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 187: Một công ty fintech yêu cầu dữ liệu khách hàng phải lưu trong trung tâm dữ liệu nội bộ (On premises data center), nhưng vẫn muốn dùng AI service trên cloud để phân tích dữ liệu giao dịch (transaction data). Yếu tố quan trọng nhất là hạn chế dữ liệu đi qua Internet công cộng. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Hybrid Cloud kết hợp Site-to-Site VPN",
+            "Hybrid Cloud kết hợp kết nối mạng riêng (Private Network Link)",
+            "Hybrid Cloud kết hợp Public API Gateway"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 188: Một đội DevOps triển khai hệ thống microservices bằng container. Khi ứng dụng gặp lỗi, họ mất nhiều thời gian để xác định truy cập (request) đi qua dịch vụ nào trước khi bị lỗi. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Ghi log tập trung (centralized logging) kết hợp metrics monitoring",
+            "Theo dõi luồng request phân tán (distributed tracing) kết hợp centralized logging",
+            "Distributed tracing kết hợp tự động restart service"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 189: Một công ty startup muốn triển khai backend nhanh và ít tốn công vận hành nhất. Hệ thống chủ yếu là REST API đơn giản với truy cập chưa lớn, nhưng có thể scale nhanh nếu sản phẩm thành công. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Backend dạng container trên managed Kubernetes",
+            "Serverless Functions kết hợp Managed Database",
+            "Virtual Machine Auto Scaling kết hợp managed database"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 190: Một doanh nghiệp chia sẻ video trực tuyến có lượng video rất lớn nhưng phần lớn dữ liệu cũ gần như không truy cập lại sau vài tháng. Công ty muốn tối ưu chi phí lưu trữ nhưng vẫn cần khả năng khôi phục khi cần. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Object Storage Standard kết hợp lifecycle policy",
+            "Archive Storage kết hợp chính sách quản lý vòng đời (lifecycle policy)",
+            "Block Storage dung lượng lớn kết hợp snapshot định kỳ"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 191: Một hệ thống thương mại điện tử (e-commerce) thường bị tăng tải đột biến vào các chiến dịch flash sale. Đội vận hành muốn hệ thống tự động mở rộng (auto scaling) nhưng vẫn tránh việc scale sai do đột biến truy cập (spike traffic) ngắn hạn trong vài giây. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Auto Scaling theo CPU realtime không cooldown",
+            "Auto Scaling theo average metrics kết hợp cooldown period",
+            "Auto Scaling theo memory usage với mức scale cố định"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 192: Một doanh nghiệp Y Tế triển khai ứng dụng trên cloud. Yêu cầu quan trọng nhất là chỉ các dịch vụ nội bộ mới được truy cập cơ sở dữ liệu, tuyệt đối không mở truy cập ra Internet. Giải pháp nào phù hợp nhất về mặt chi phí và triển khai?",
+        "options": [
+            "Database Private Subnet kết hợp Security Group nội bộ",
+            "Database Public Endpoint kết hợp IP whitelist",
+            "Database Public Endpoint kết hợp VPN access"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 193: Một công ty game online muốn giảm độ trễ (latency) cho người chơi toàn cầu. Tuy nhiên gameplay sử dụng kết nối thời gian thực (realtime websocket connection) nên CDN chỉ hỗ trợ một phần nhỏ workload. Giải pháp nào phù hợp nhất cho trải nghiệm người dùng?",
+        "options": [
+            "CDN kết hợp regional websocket gateway",
+            "Multi-region backend deployment gần người dùng",
+            "Global Load Balancer với single-region backend"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 194: Một doanh nghiệp muốn triển khai hạ tầng bằng mã nguồn (Infrastructure as Code) nhưng nhiều đội dự án cùng sửa hạ tầng này. Công ty muốn giảm rủi ro cấu hình bị ghi đè (overwrite) hoặc triển khai (deploy) sai. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Terraform kết hợp Git workflow và approval process",
+            "Terraform kết hợp shared admin account cho toàn team",
+            "Terraform kết hợp deploy trực tiếp từ local machine"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 195: Một startup sử dụng Kubernetes nhưng đội vận hành nhận thấy nhiều container thường xuyên trục trặc do thiếu bộ nhớ. Tuy nhiên workload thay đổi liên tục giữa các thời điểm trong ngày. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Tăng memory limit cố định cho toàn bộ pod",
+            "Resource Requests/Limits kết hợp Horizontal Pod Autoscaler",
+            "Disable memory limit để tránh OOM restart"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 196: Một doanh nghiệp muốn triển khai hệ thống sao lưu (backup cloud). Yêu cầu quan trọng nhất là dữ liệu backup không bị tin tặc xóa hoặc chỉnh sửa ngay cả khi tài khoản admin production bị chiếm quyền (compromise). Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Cross-region Backup Storage",
+            "Immutable Backup Storage",
+            "Versioning Backup Storage thông thường"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 197: Một công ty SaaS muốn tối ưu chi phí cloud lâu dài. Họ phát hiện nhiều VM production chạy ổn định 24/7 suốt nhiều tháng và gần như không thay đổi tài nguyên sử dụng. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Spot Instance dài hạn cho production workload ổn định",
+            "Reserved Instance hoặc Savings Plan cho workload ổn định",
+            "On-demand Instance kết hợp auto scaling tối thiểu"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 198: Một hệ thống banking cần triển khai trung tâm dự phòng thảm họa (Disaster Recovery site). Ban lãnh đạo yêu cầu khi region chính gặp sự cố, hệ thống có thể hoạt động lại trong thời gian ngắn nhất với dữ liệu mất ít nhất có thể. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Backup định kỳ và restore thủ công sang DR region",
+            "Active-Passive Multi-region Replication",
+            "Snapshot database hàng ngày sang region khác"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu 199: Một đội phát triển muốn tăng tốc quy trình CI/CD vì thời gian build container hiện quá lâu. Sau khi phân tích, phần lớn thời gian nằm ở bước tải phụ thuộc (dependency) lặp lại nhiều lần. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Docker Layer Cache và dependency caching",
+            "Parallel build nhiều pipeline đồng thời",
+            "Tăng cấu hình CPU cho CI runner"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Câu 200: Một doanh nghiệp lớn triển khai multi-cloud giữa AWS và Azure. Yêu cầu quan trọng nhất là tránh phụ thuộc hoàn toàn vào một cloud provider nhưng vẫn giữ khả năng quản trị tập trung và networking ổn định. Giải pháp nào phù hợp nhất?",
+        "options": [
+            "Multi-cloud kết hợp public Internet VPN giữa các cloud",
+            "Multi-cloud với quản trị độc lập từng cloud provider",
+            "Multi-cloud với centralized IAM và hybrid networking"
+        ],
+        "answer": 2
     }
 ]
